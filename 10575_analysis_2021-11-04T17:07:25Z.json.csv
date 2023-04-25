@@ -1,0 +1,50 @@
+agent,customer
+"Hello, thanks for calling Rivertown insurance customer service. How may I help you?","Hi, I would like to cancel my insurance plan. I tried doing it on the website but I couldn't so I guessed I have to make a call to cancel it."
+Alright. I can help you with that. May I have your first name and your last name sir?,My name is Joe Willock.
+Okay sir. Joe as the first name and Willock as the last name. Is that correct sir?,"Yes, that's right."
+Okay. I'll also need your birth date and your customer number.,"#Uh, sorry? My birthday? My birthday isn't today."
+"(laughter), your date of birth not your birthday sir.",Oh! I thought you were asking me to celebrate my birthday.
+(Laughter).,"Okay. My date of birth is September sixth, nineteen ninty four."
+"September sixth, nineteen ninty four. Is that correct?","Yep, that's it."
+May I have your customer number please?,My customer number is just a moment please.
+Take your time.,Okay. Got it. My customer number is two two one one.
+two two one one.,three three four one.
+three three four one.,"Yes, that's right."
+Alright. Please hold on.,Okay.
+"Okay. To be able to cancel your plan, I'll need to have your policy number.",Policy number? What's that?
+Your policy number is the string of numbers below your profile picture.,Oh! I think I wrote that somewhere. Just a moment please.
+Sure. Take your time.,Okay. Got it. It's one one one two.
+One one one two.,Three three four four.
+Three three four four.,"Yep, that's right."
+one one one two three three four four. Is that correct?,Oh! it's actually three three three four. The last four digits are three three three four.
+Okay. One one one two three three three four. Is that right?,"Yes, that's right."
+Hold on while I check the system please.,mhm.
+"Gotcha, to cancel your plan, I'll need to confirm the plan which you are currently enrolled in.",I'm currently on Homeowner plan.
+Alright. May I ask which of the homeowner plans you are currently on?,I thought these things should be on your system. Why are you asking me what plan I'm on when you can just check your system.
+Sorry for the inconvenience sir. Actually I have them on the system but I just need confirmation.,that's homeowner preferred plan which is currently one thousand six hundred dollars per year.
+Okay. That's right.,"Yes, of course."
+"Alright. Before I proceed to cancel your plan, may I know the reason why you are cancelling?",Oh it's I actually still have plans to still enroll but on a lesser plan.
+okay. May I know if the cost of the current plan have caused you any inconvenience?,"Jeez, can we just go ahead and cancel it? I don't really have time to start explaining that to you."
+Kindly hold on while I try to confirm on the system.,Yeah sure.
+I'll proceed with the cancellation of your plan. Do you confirm the cancellation?,"Yes, I confirm to cancel it."
+Alright. Please hold on while I proceed with the cancellation.,Yeah sure.
+Okay done. Your plan is now cancelled. May I ask if you plan to enroll in a lesser plan immediately?,"Actually, not really, not now."
+Alright sir. May I ask if there is anything else I can help you with?,I actually wanted to ask you if I could cancel the plan on the website myself instead of having to make a call in case of next time.
+Of course sir. I can help you with that.,Okay. I'd love that.
+Good. I'll explain that shortly.,Hold on while I get something I can write on.
+Sure. Take your time.,Okay. I've got that. Please go on.
+"Alright sir. In order to cancel a plan, you'll need to click on the profile icon after logging into the website.",I'll click on profile after logging in?
+"Yes, that's right.",Okay. What next?
+"After clicking on your profile, you'll look for the Plan types icon.","I'll click on the Plan types icon. Alright, go on."
+Then you just need to click on the plan you intend cancelling.,Okay. I think I got that.
+Alright. Then you can just go ahead and click on cancel and that'll be all.,Oh! it's actually very easy.
+Yes it is sir.,I really appreciate your efforts and the time you've taken to explain all these to me. Hope you don't mind if I asked for your name?
+No problem sir. My name is Jake Fowler.,Jake Fowler? Really! My wife's cousin bears exactly the same. I wonder if you both would look alike.
+"(laughter), well, I doubt that. but it's a pleasure sir.","Yes, it is."
+Is there anything else I can help you with?,"Well, I don't know if your company offers any kind of renters insurance."
+"Yes, we do. Should I brief you on the types of renters insurance we offer?",Yes please.
+Okay. We have two types of renters insurance.,Okay.
+The first one is Renters Basic which costs two hundred dollars per year and renters preferred which costs three hundred dollars per year.,It's actually nice. I've made enquires elsewhere and your company seems to offer it at a cheaper rate.
+Yes sir. We always try to give the best at affordable rates to all our customers.,That's good. Thank you.
+Thank you sir. Is there anything else you need sir?,I think that'll be all for now.
+Thanks for contacting us sir.,"Thank you too, it's been a pleasure."

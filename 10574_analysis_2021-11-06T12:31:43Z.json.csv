@@ -1,0 +1,29 @@
+agent,customer
+"Hello, thanks for calling Rivertown insurance customer service. How may I help you?","Hi, how's your day going?"
+"Fine, how's yours too and what can I do for you?","Fine, I want to get auto quote."
+"Okay, can you provide me your name?",my name is Isreal Henderson.
+"Okay, I'll also need your customer number and your date of birth sir.",just a second.
+"Sure, please take your time.","Customer number, which exactly is the customer number? I'm not really sure."
+Your customer number is the string of numbers above your profile picture.,"Oh! right, I got it. The customer number is four four right?"
+It should be eight digits long.,"yes, it is."
+Good. Could you read that number to me please?,Yeah. It's four four zero one.
+Four four zero one.,four four four three.
+four four four three.,"Yep, that's right."
+"Okay, four four zero one four four four three, is that correct?","Oh! Sorry, it actually ends with four four four two not four four four three. I thought I saw three."
+Okay. No worries sir. You said four four zero one four four four two right?,"Yes, that's right."
+Perfect. May I have your date of birth please?,"Sure. My date of birth is August third, nineteen ninety."
+"August third, nineteen ninety right?","Yep, that's right."
+"Okay, just a moment please.",
+Alright. May I know the auto type?,it's a toyota car.
+Okay. Can you prescribe the auto model?,ES Seven hundred.
+"Okay, what is the year of the automobile?",Twenty twenty brand.
+Alright. Please provide me the mileage of the automobile?,"I'll do that, let me confirm it."
+"Alright sir, take your time.",it's just about two months.
+Okay which of the pet plan did you want to go for?,"Yes please, Petcare Auto is what I go for."
+Alright. Hope the price as one thousand five hundred dollars?,Yes I do.
+Please you have choose either phone or email for the slot method.,Yes please I will go for email.
+Okay. Wait a moment it's process.,okay.
+Kindly provide me your email sir.,Thanks it is isrealhen at yahoo dot com.
+Okay confirm. The link to get the auto quote is successfully sent to your mail sir.,Thanks.
+may I know if there is anything more I can do for you?,No that will be all for now.
+Thanks for your call. Do have a great day!,Alright thanks. Bye!

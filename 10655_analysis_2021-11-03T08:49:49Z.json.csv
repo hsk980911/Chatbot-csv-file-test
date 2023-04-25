@@ -1,0 +1,30 @@
+agent,customer
+"Hi, this is Rivertown Insurance. How can I help you today?",#Ah yeah I'm having issues with my billing and need to get the automatic payments turned off.
+"Sure, I can help you with that. What is your first and last name?","Sure, it's Michael Brown."
+"Thank you, mister Brown. What is your date of birth?",yeah it's March fourteenth.
+"March fourteenth, and what year?","Oh yeah, it's nineteen eighty nine."
+"Great, and now in order to verify your identity I also need your account number please.",and I can find that where?
+"If you are on your account online, it will be in the upper right under your name.",If I was online I wouldn't be calling you.
+"I apologize, mister Brown. I can also verify your identity with your social security number and security question.","Jeez, okay that's fine."
+Sure. What is your social security number?,five four two.
+five four two.,three one one.
+three one one.,nine five four one.
+"nine five four one, thank you. And to verify your security question, what is name of your first pet?",That would be Bruce.
+Thank you. One moment while I pull up your account.,Okay.
+Thank you for holding. I have your account pulled up.,"Yeah, I just want to get rid of the automatic payments."
+"Sure, I can temporarily turn off the automatic payments.","No no no, I want it off off. I keep getting overcharged because I can't get see my bill until the automatic payment already goes. I just want it turned off and get regular statements in the mail."
+"Okay, mister Brown. I can take automatic payments off and have regular statements with billing dates mailed to you.","Yep, that's exactly what I want because I'm tired of being charged too much."
+"Sure, those automatic payments are turned off. You were scheduled for another payment on August twenty nineth, but you should receive a statement in the mail prior to that date that will allow you to pay by check or credit card.","Great, so this won't make me late on anything?"
+"No, unless you don't pay by the date on the statement.",Okay cool.
+"So, if I can just get your confirmation on cancelling your automatic payments.","You mean like, yes I want to do this?"
+"Yes, sir.","Okay, then, yes I want to cancel my automatice payments."
+Thank you. Your automatic payments have been cancelled. Is there anything else I can help you with today?,"Yeah actually, I mentioned being overcharged on my bills. I need to get that fixed."
+"Sure, let me look at your last statement.","Yeah, it's super annoying because I'm getting charged two fees when I shouldn't be."
+"I have your statement pulled up, and yes, I see the fee charge on their twice. Let me see what I can do.",Thanks.
+"Okay, so I have removed the extra fee. Since I just cancelled your automatic payment, your next statement should reflect the correct amount.",Without the double fee thing?
+"Yes, that should not be on there.","Great. And I haven't already been charged that by accident, right?"
+"No, sir. It's not showing that as being charged.",Okay great.
+Is there anything else I can help you with today?,"Nah, I'm good now that that's fixed. Thanks."
+"Sure thing, sir. If you need any additional help don't hesitate to give us a call.","Okay, thanks."
+"Have a great day, mister Brown.","yeah, you too."
+Bye.,Bye bye.

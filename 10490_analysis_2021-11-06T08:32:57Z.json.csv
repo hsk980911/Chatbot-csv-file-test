@@ -1,0 +1,35 @@
+agent,customer
+"Hello, thanks for calling Rivertown insurance customer service.","Hi, this is Maria speaking. How's your day going?"
+"Okay Maria, my day is moving fine how's yours too?",fine.
+How may I help you?,Yes. I want to enroll in plan. I tried doing that on the website but unfortunately I can't.
+I'll surely do that for you ma'am. Kindly provide me your first and last name?,My first name is maria and last name as Hopkins.
+Okay maria as the first and Hopkins as the last name.,Exactly.
+Kindly provide me with your customer number too ma.,Oh! The customer number is four four right?
+It should be eight digits long.,"yes, it is."
+Good. Could you read that number to me please?,Yeah. It's six six six one.
+Six six six one.,four four four three.
+four four four three.,"Yep, that's right."
+"Okay, six six six one four four four three, is that correct?","Oh! Sorry, it actually ends with four four four five not four four four three. I thought I saw three."
+Okay. No worries sir. You said six six six one four four four five right?,"Yes, that's right."
+Perfect. May I have your date of birth please?,"Sure. My date of birth is October first, nineteen sixty."
+"October first, nineteen sixty right?","Yep, that's right."
+"Okay, just a moment please explain which insurance plan you would like to enroll in?","Yes, I will like to insure my pet. It's a cat named Paulie."
+Oh! Okay.,Kindly provide me the fee and the method of paying.
+we have five plan in pet categories.,State them.
+Petcare Basic which is five hundred dollars per year and Petcare Preferred which is one thousand dollars per year.,Okay I will go with that Petcare Preferred which is one thousand dollars per year.
+Alright. That isn't a problem for us ma.,"Paulie is so beloved to me. Kindly state the way of payment please, I can't wait."
+Okay. You'll have to provide me your credit card details.,"You mean the number, expiration date and cvv right?"
+"Yes exactly, proceed with the number.",Four nine five nine.
+Four nine five nine.,five one one eight.
+five one one eight.,five three seven nine.
+five three seven nine.,Three three three nine.
+Three three three nine.,"Yes, can I proceed with the expiration date?"
+Yes please proceed.,"It's eight, twenty twenty four."
+"Eight, twenty twenty four.",Yeah.
+What is your CVV?,Six five five.
+Six five five.,Yeah.
+Can I proceed with the enrollment in the plan.,Please do.
+Wait a moment while I enrol you in a plan.,Alright. Thanks.
+"Okay, you have successfully enroll in Petcare Preferred which is one thousand dollars per year.",Oh! Thanks I'm so much grateful.
+Thank you too. Is there anything else I can do for you again?,"No, that will be all for now."
+"Ok, do have a great day! Bye!",Thanks bye!

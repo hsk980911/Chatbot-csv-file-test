@@ -1,0 +1,30 @@
+agent,customer
+"Hi, good morning, my name is Mary, thank you for calling, what can I do for you.","Good morning Mary, my name is Britney."
+"Okay Britney, what can I do for you this morning?",Please call me Brit.
+"Uh, okay Brit.",I want to pay for my insurance bill.
+o-kay. First I'll have to confirm your identity by asking you to provide some details about yourself.,"Okay, proceed."
+"Please provide your first name, last name, date of birth and customer number.",My first name is Britney.
+B R I T N E Y.,"No, it's spelled B R I T T A N Y."
+B R I T T A N Y.,My last name is Jason.
+J A S O N?,yeah.
+"Brit, what's your customer number.",How do I get a customer number?
+Do you have your insurance card?,Yes but it's not with me at the moment.
+Is it within reach because you'll have to read out the customer number to me.,I'm not sure about that. Could you hold on a second while I look for it?
+Please take your time.,Found it. Seven eight three.
+Seven eight three.,Two one three.
+Two one three.,Nine zero.
+Nine zero. Your identity has been verified.,O-kay.
+It shows here that you're on preferred automobile plan.,Yes.
+That's one thousand five hundred dollars per year.,"Yeah, that's correct."
+What's the duration of the bill.,It's a year.
+"So, you'll be paying one thousand five hundred dollars.","Yes, how do I make payment."
+"I'll need your credit card number, the expiration date and CVV.",My credit card number is six seven nine seven.
+Six seven nine seven.,One one three zero.
+One one three zero.,Eight two five four.
+Eight two five four.,"The expiration date is zero seven, two zero two three."
+"Okay, your CVV.",Three one five nine.
+Hold on. it says the CVV number is invalid. Could you call the numbers again?,"Yes, it's three five nine."
+"Okay, three five nine?",Yes.
+"Alright, your payment has been initiated.",okay.
+Your bill has been successfully paid. Is there anything else I can do for you?,"No, that's all for now."
+Thank you for choosing our insurance company. Do have a great day. Bye.,Yeah you too. Bye.

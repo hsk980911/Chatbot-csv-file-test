@@ -1,0 +1,40 @@
+agent,customer
+"Hello, Good day, welcome to Solid Insurance customer service.","Hi, thanks."
+May I know your name please? How can we help you?,My name is Stephen.
+"Oh mister Stephen, welcome once again.",I would like to cancel my insurance plan.
+Hope no problem sir? We can surely help to rectify any issue you might be facing.,"Not really, I don't want to go into details for now."
+"Okay, we are always ready to serve you better.","Thank you, I actually tried to find the cancel plan button on your website but couldn't find any. I guess I have to make a phone call to cancel it."
+"Sure thing, we can help with that.",Thank you.
+Can I have your first name and last name please.,First name is Stephen.
+"Ok, Stephen.",Last name is James.
+"Ok, so we have here Stephen James.","Yeah, thats correct."
+Thats good. Do you have your policy number there with you mister Stephen?,You mean policy number.
+"Yes mister Stephen, To cancel your plan successfully, I need to have your policy number. You can find this number on your account page in our website.","m oK, give a moment please, let me look for it."
+Take your time please.,"Policy number, you mean... the string of number below my profile picture?"
+Yes please. Could you read it?,"Ok, five eight nine."
+five eight nine.,seven zero two.
+seven zero two.,three three three.
+You mean three three two.,"No, it's three three three."
+"Ok, three three three.",Yes thats correct.
+"So, for the policy number we have five eight nine seven zero two three three three.","Yes, thats correct."
+"Perfect, Now may I have your address and zip code too?","My address is five forty, rangeline mobile Ak."
+"Ok, five forty, rangeline mobile AK.","Yes, thats corect."
+The zip code please.,three five nine.
+three five nine.,one six.
+one six.,Thats all.
+Ok. Three five nine one six.,"Yes, thats right."
+Next we need your date of birth.,"Ok, September, sixteen nineteen seventy four."
+"September sixteen, nineteen seventy four.",Yeah.
+"Ok, from what I have on your dashboard, you have two insurance policy under our company.","Yes, I know, Automobile policy and Life insurance."
+"So, which plan would you like to cancel from the two.",I will like to cancel the life insurance policy for now.
+Ok.,"I will also like to ask, can I enrol back anytime I'm ready."
+Yes you can mister Stephen.,Ok.
+"Thanks for the information sir, I will go ahead and cancel your plan.","Ok thanks, please when will the cancellation take effect."
+"It will take effect from the first day of next month, you wouldn't be billed from now till that time.","Ok, thats good by me."
+Do you confirm the cancellation?,Yes I confirm to cancel it.
+"Ok, please hold on for a while, I will proceed to cancel your plan.",Yeah sure.
+Okay done. Your plan is now canceled.,Thanks m. Thanks for your help.
+"You are welcome, Is there any other thing you would like us to do for you.",No that will be all for now.
+"Okay, no problem, thanks for contacting us once again.",You are welcome.
+Do have a wonderful day ahead.,Thank you and you too.
+Bye.,Bye.

@@ -1,0 +1,28 @@
+agent,customer
+"Good morning, Rivertown Insurance, how may I help you?","Hi, I was wanting to change my billing from yearly to monthly, can I do that?"
+Let's take a look at your account. It shouldn't be a problem. Can I get your first and last name?,"Yeah, sure. My name is Susan Jones. Did you need my account number?"
+"Hi Susan, my name is Jane, and yes, I'll need your account number.","Okay, just a second, I forgot to grab the policy, can you hang on for a second?"
+No problem.,"Okay, I got it. It's seven four eight two nine nine nine nine."
+"Thanks, just pulling up your account.",Okay.
+"Okay, I have your account up. You said you want to change your billing frequency? Is that correct?","Yeah, I'm just finding that that one big bill is harder to plan for, it's always a big chunk, I'd rather make the smaller monthly payments."
+"I can understand that, for sure. In order to make changes to the account, I do need to ask a couple security questions.","No problem, ask away."
+"Thank you, first, what is your birthdate?","July fifteenth, ninteen eighty nine."
+"Thank you, and can you confirm your current address?","Sure, seventeen fourty six Wilson street, Summerville PA. The zip is four oh six nine eight."
+"Great, and finally, You gave us answers to three security questions, do you remember doing that?","Yeah, I hate those things, I hope they come up with a better way to do that in the future."
+"I agree, no one likes them, but, for now, it's what we have.","Okay, let's see how well the brain is working this morning, go ahead."
+"I'll ask you the three questions, two out of three will do.",I'm ready.
+"Okay, what was your mother's maiden name?",Simpson.
+What was the name of your first pet?,"Fred, Fred the cat."
+"Good. and finally, what is the name of your childhood best friend?","Echo, that one I always know, I've never met another person named Echo, and she was my best friend. I have no idea where her parents came up with that name, but it sure comes in handy for these security questions! ."
+"Echo? Wow, yeah, that's a new one on me, and I hear a lot of names.",I can't imagine it makes too many top ten lists.
+"Okay, so all good to go, let's get the billing changed.",Yay! I passed!
+"Yes, top marks. So you would like to change from annual billing to monthly, So I see the billing for the year just went out, so we can change that to take the first payment on the fifteenth, and then monthly after that.","Yeah, that will be perfect. I figured it would be easier to do this right at the beginning."
+"Definitely. Okay, how will you be making the payments? We can take it directly from your account, charge a credit card, or send you a monthly invoice that you can pay through your bank.","Not credit card, I guess the easiest would be for you to take it directly."
+"Okay, I agree, that's the easiest way.",How do we set that up?
+"We need to get the details for your bank account. If you do online banking there is usually an option to download an autowithdrawl form, that will give us all the information we need. Or, you can go directly to your bank and they can print one off for you.","Yeah, I've seen that autowithdrawl form thing, I can get that to you. Do I just email that in?"
+"Yes, send it to my attention. jsmith at Rivertown dot com. Just put your account number in the subject line. Can you get that done by the end of the week?","Oh yeah, no problem, I'll do it today."
+"Great, I'll get that entered and set up, and you'll receive a notification that your billing details have changed. I'll just confirm your email address. I have sjones at gmail dot com.",That's the one.
+"Good, that's it then, you send me the form, I'll make the changes and the first payment will come out on the fifteenth. There will be an additional twenty dollar charge on that first payment, for setting up monthly billing.","Yeah, I expected that, is that charge every year?"
+"Yes, it's the administration charge for monthly billing.","Right, okay, well that's reasonable I guess."
+"So that's it, was there anything else I can help you with today Susan?","Nope, that's it, thanks for your help Jane, I'll get that form to you in a few minutes."
+"Okay, I'll watch for it. You have a great day Susan. Thank you for using Rivertown Insurance. Bye.","You too Jane, thanks again. Bye."

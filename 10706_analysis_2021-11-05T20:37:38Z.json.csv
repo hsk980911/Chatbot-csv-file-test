@@ -1,0 +1,46 @@
+agent,customer
+"Hi, Bob, this is Matt with Rivertown Insurance, how are you today?","Hey Matt, I'm alright, how are you?"
+"Doing pretty well. I saw that you filled out an accident form on our website, correct?","Yeah, unfortunately. I wanted to file an auto claim and figure out I guess what I need to do next."
+I'm sorry to hear that Bob. Are you and your family alright?,"Yeah, for the most part we're okay. Just a few knicks and scratches."
+"Glad to hear it. So Bob, the first step is to discuss the incident itself, and then we can go ahead and file that claim for you, okay?","Sure, do I have to do this over the phone? Is there an easier way?"
+"Unfortunately, you can't sir. We have to do it together over the phone in order to comply with customer privacy laws.",Okay.
+"So, the first things I'll need from you is your first name, and last name.",My name is Bob Martyn.
+"Thank you sir, Bob Martyn... Just to confirm, that's b.o.b. m.a.r.t.i.n.?","No, it's m.a.r.t.y.n."
+"Got it, m.a.r.t.y.n.",Correct.
+Great. Next I will need your let me see Date of birth.,"Oh, okay, and then date of birth is January the ninth, nineteen seventy four."
+Got it. Next will be your customer number.,where would I go to find that?
+Try your email address it probably would have been sent there.,Okay. let's see.
+Alright.,"So, where in my email do you think it would be? I'm not seeing it here."
+"if it would be faster, I can do it by using your social security number instead.","Sure, let's do that, yeah."
+"Okay, can I get your social security number and answer to your security question please?","Yeah, my social security number is one five oh three oh three nine one one one. I'm not sure about the security question though?"
+"I have here that the question is, what was the make and model of your first car?",Okay try Dodge Durango.
+That worked! Now I just need your phone number.,"Sure, my number is three oh one oh two two oh oh five nine."
+"Great, thanks for all of that.","Yeah, of course."
+"Alright, let me just Okay, so the next step is for me to ask you a couple questions about the incidents, okay?",Sure.
+"Alright, so first I'll need the accident date and accident time, please.","The date was October first, twenty twenty one."
+And the time?,Time was ten ten pm.
+"Got it. And next, the make and model of your vehicle?","It was, an Audi A six."
+"Great, I got all of that in the system.",Okay.
+The last thing I'll need from you is the location of the accident.,"Sure, state was California, city was Sacramento."
+"Actually sir, I don't need a city.","Oh, okay."
+"Thank you sir, now the last thing I will need you to do is describe the incident to me.",Alright.
+"So, what was going through your mind when the accident happened.",well let's see. I was driving to my daughter's softball game.
+Okay.,"And on my way, I came up to a stoplight."
+"Stoplight, got it.","Yeah, and the light on my side had just turned green, so I just drove through like normal."
+Mhm.,"Then, out of the corner of my eye I saw a red object coming towards me, and then yeah, they hit me, and that was that."
+"Alright, thank you for that.",No problem.
+"So let me just, enter this here.",Okay.
+"Great, so your claim has been successfully filed. Your file date will be June eighth, twenty twenty, if you need to reference that.",Mhm.
+"Now, typically our claims team will review cases in three to five business days.",And how will I know that it has been reviewed?
+You should receive a confirmation message to your preferred method of communication.,Got it. And is there anything I will need to do after that?
+"No sir, once you receive the message, you will know that your claim has been successfully processed.",I see.
+"Alright great, now the last thing we need to do is get you your claim number.",Okay.
+"So let me just, get that for you here.",Mhm.
+"Alright sir, so your claim number is oh oh two three eight oh one one.",oh oh two three eight oh one one?
+Correct.,"Alright, got it, thanks."
+Of course sir. Now is there anything else I can do to help?,"no, I don't think so."
+"Alright sir, thank you for your time today, and once again, I'm sorry you had to go through this experience.","Yeah, thank you."
+"Now if you have any other questions, please don't hesitate to give me a call.","Okay, what is your number again?"
+three oh one oh two two oh oh five nine.,Perfect.
+"Of course, and one last thing, After this call ends, there will be a request for rating my service. Please press a number from one to five to rate your satisfaction.","Alright, will do."
+"Great, well sir, thanks for your time today, and I hope to speak with you soon.",Bye.

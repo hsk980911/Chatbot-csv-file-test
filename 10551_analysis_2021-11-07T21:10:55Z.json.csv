@@ -1,0 +1,26 @@
+agent,customer
+"Hello, thanks for calling Rivertown insurance customer service. How may I help you?","Hi, I'd like to cancel the automatic billing of my account. I tried to cancel it on your website but couldn't. I guess I have to make a phone call to cancel it."
+Okay. I can do that for you. May I have your first and last name please?,My name is Dennis Dillion.
+"Okay, Dennis as your first name and Dillion as your last name?",Yes.
+"Okay, I'll also need your customer number and your date of birth sir.",just a second.
+"Sure, please take your time.","Customer number, which exactly is the customer number? I'm not really sure."
+Your customer number is the string of numbers above your profile picture.,"Oh! right, I got it. The customer number is four four right?"
+It should be eight digits long.,"yes, it is."
+Good. Could you read that number to me please?,Yeah. It's six six six one.
+Six six six one.,four four four three.
+four four four three.,"Yep, that's right."
+"Okay, six six six one four four four three, is that correct?","Oh! Sorry, it actually ends with four four four two not four four four three. I thought I saw three."
+Okay. No worries sir. You said six six six one four four four two right?,"Yes, that's right."
+Perfect. May I have your date of birth please?,"Sure. My date of birth is twenty eight of October, nineteen sixty five."
+"twenty eight of October, nineteen sixty five right?","Yep, that's right."
+"Okay, just a moment please.",okay.
+Alright. May I know if this cancellation will be temporary or permanent?,I want a temporary cancellation. I cannot handle the current billing of my account at the moment but will surely get back to you when I'm ready.
+"Okay. Before I proceed with a temporary cancellation, may I know if you have suggestions on how we can serve you better?","Well, I have no problem with the automatic billings, I just can't handle it at the moment. But I think your company should really consider looking into the ridiculous charges that's being deducted along with the automatic billings. It's just too much and too frequent."
+We're very sorry for the inconveniences. We will surely look into that.,Please do.
+Alright. Please feel free to contact us whenever you have any sort of complaints or suggestions.,I'll do that.
+Okay. Please hang on while I proceed with the temporary cancellation sir.,Okay.
+I'll proceed to cancel your billings temporarily on the system. Do you confirm cancellation?,"Yes please, you can proceed."
+Alright.,Yep.
+Okay done. Your plan is now cancelled.,thanks.
+Thanks for contacting us.,Thaks for the help.
+Yeah. Bye.,Bye.

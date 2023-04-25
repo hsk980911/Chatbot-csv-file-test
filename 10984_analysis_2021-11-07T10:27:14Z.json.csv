@@ -1,0 +1,27 @@
+agent,customer
+Thanks for calling Rivertown! This is Charity. What's your name?,"Hi. #Um, it's Sam, Samantha."
+"Samantha, what's your last name?",Miller.
+Ok. Easy enough. Thanks. Your birthdate?,"July thirty first, two thousand."
+Thanks. Two thousand.,#Mhm.
+"And, to verify your account, what's the name of your childhood best friend?",Giles.
+"Thanks for verifying. Now, I've got your account pulled up. How can I help?","Well, I got this email that says, well I get my payments, are made, they're automatic and I noticed the payment was higher than usualy, so I went online, and saw a weird charge."
+Ok. How much was the charge?,Sixteen something.
+Ok. I see that and it looks like that is for your renters policy.,I don't have renters insurance!
+"#Uh-oh. That's not good. I show that you do, and you have auto.","Yes. Yes, that one's right, but I don't have renters."
+Let me look into this. One moment.,#Mhm.
+"Are you still there, Sam?",Yeah. I'm here.
+"Ok, it looks like you called in last week and enrolled in renters insurance. Actually, it looks like you did it online. Does that sound familiar?","No, no, I only got a quote."
+#Hm. It looks like you actually signed up. Is it possible that you accidentally signed up?,"#Oh, who knows. Your site isn't that easy to figure out, even for me."
+"I'm so sorry for the inconvenience. I can stop the policy now, if you'd like.","Well, yes! I didn't sign up for it."
+"Ok. Well, give me, just a moment and I will get this canceled.","I better not, will you refund the payment for that?"
+"#Oh, I'm not sure I can do that. I'll need to put you on hold for a couple of minutes while I consult with my colleague.",Ok.
+"One moment, please.",#Mhm.
+"Ok, Sam?",I'm here.
+Sorry for the wait. My supervisor says that we credit that to you on next month's bill.,You can't refund me?
+"Unfortunately, because it was an automatic payment, we can't. I'm sorry.","I'm on a budget, you know."
+"I understand, but I'm sorry, there's nothing I can do to process refunds. #Uh, we just can't process refunds for automatic payments.","Whatever. Fine. So, a credit next month?"
+Yes. I'm working on that right now.,Fine.
+"Ok. You're all set and I'm so sorry for the inconvenience, Sam.",Ok. Thanks.
+Is there anything else I can do for you?,No. That's it.
+Have a good day and thanks for calling Rivertown Insurance.,"#Yep. Thanks. You, too."
+Thanks. Bye bye.,Bye.

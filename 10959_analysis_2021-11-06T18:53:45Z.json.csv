@@ -1,0 +1,27 @@
+agent,customer
+It's a good morning at Rivertown Insurance. I'm Katie. What can I do for you today?,I need to check my balance.
+Ok. I can help with that. On which account?,#Oh. My car insurance.
+Ok. I can pull up your account with your name and birthdate.,Ok. It's Angie Thorndale.
+#Mhm.,"And, my birthdate is October twenty four two thousand two."
+"Ok, Angie, would your account be under Angela instead of.","Yes. Yeah, sorry. Angela."
+"No problem. I see your account and now I'll need to verify it by, asking your security question.",Sure. Fire away.
+What is the name of your childhood best friend?,Larry.
+Ok. Thanks for that.,#Mhm.
+"Ok, Angie, it looks like you have monthly automatic payments. Was there a problem with a payment going through?","#Oh. No, I was just wondering that if the balance for the rest of the six months wasn't too high, that I would pay it all now."
+"Ok. That's possible, but keep in mind that if you change to bi-annual billing and you want the billing to go back to monthly at the beginning of your policy renewal, that you'd need to call back.","#Oh. So, I can't just pay the balance and have you keep it that way? Wouldn't the system just not bill me if the balance is zero?"
+#Hm. Good question. Give me a second to talk with my supervisor about it and let me find the easiest way for this to happen.,Ok. Thanks.
+Sure. One moment.,#Mhm.
+Angie?,"#Mhm, I'm here."
+"My supervisor said it's fine if you just paid the balance, then the system would just not pull a payment if the monthly balance is zero. Then, the renewal will automatically go to the default payment frequency. Make sense?","Yeah, that's what I was hoping."
+Great. Give me a moment while I get this going.,"Wait, I need the balance before I decide."
+"#Oh, jeez. Yes, sorry. It's been a long day.",No problem at all. I totally get it.
+"Thanks. #Um, it looks like the balance remaining is two thirty seven fourty eight.",Ok.
+"Now, that's three months with the five percent discount for automatic payments and electronic billing.",#Yep. Great. Let's do it then.
+Ok. One moment.,#Mhm.
+"Ok, would you like me to use the card on file?","Yes, please."
+Can you please verify the last four digits of the card?,"Yes, it's three one two eight."
+Perfect. Give me one second to complete the payment.,#Mhm.
+"Ok, Angie, that's taken care of and I see your policy will renew September first.",Great. Thanks.
+Is there anything else I can help you with today?,"No, that's it. Thanks."
+"Very good. Thanks, again, for calling Rivertown Insurance. I hope you have a good rest of your day.","Thanks, you, too. Take care."
+Thanks. Good bye.,Bye bye.

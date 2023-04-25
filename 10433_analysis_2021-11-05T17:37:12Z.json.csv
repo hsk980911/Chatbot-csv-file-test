@@ -1,0 +1,55 @@
+agent,customer
+"Good morning, this Frank Hash with Rivertown Insurance Company, how can I be of service to you today?","Good morning Frank, I'm calling because I want an life insurance policy."
+"Miss Ruby, I'd be happy to help you with that but first tell me, do you have another policy with us or are you a first time customer.","as a matter of fact, I have a renter's insurance policy with y'all."
+"Great, Miss Ruby, I need to verify your identity before I go over the different life insurance plans.",Okay.
+first can you verify the spelling of your first and last name.,"Yes, my first name is Kay, that's spelled K A Y."
+K A Y?,Yes.
+"Okay, got it.",My last name is Ruby spelled R U B Y.
+You said R U B Y?,Yes.
+"Okay, now can I have your date of birth?",yes my date of birth is six seven nineteen eighty.
+"six seven nineteen eighty, right.","Yes, that's correct."
+Do you have your customer number?,"No, I don't."
+"Okay, then, can I have your phone number?","Dang, why do you need so much information, this makes no darn sense?"
+"Ma'am, I'm very sorry, we have to verify the identity of every customer, it's for your security.","#oh, well I can understand now, I'm sorry, I've had a rough morning."
+"I'm very sorry about this morning, I hope it gets better for you.",Thanks.
+"Now Miss Ruby, can I have your phone number now.","Yes, it's three two three four five six seven one two one."
+"Okay, that's three two three four five six seven one two one.","Yes, that's correct."
+-huh Can I now have your Social Security Number?,It's eight eight eight five five two two three four.
+Eight eight eight five five two two three four.,"Yes, that's right."
+"And when you first opened your account, you picked an security question and I will need the answer you gave.","#Mhm, okay."
+"The security question you chose is, what is the name of your high school?",I went to Vermont High School.
+"Okay, Miss Ruby, I've verified your identity and for future reference, I'm going to give you your customer number.","Okay, hold on, I have to get pen and paper."
+That's fine.,Hello.
+"Yes, I'm here, are you ready for the customer number.",Yes.
+It's two one three.,"Okay, two one three."
+"Yes, seven six five.",Seven six five.
+Three three.,Three three.
+"Yes, that's it.",Okay I've got it.
+"So Miss Ruby, let me go over the types of life insurance we have.",I'm interested in Whole Life insurance.
+"We'll, Miss Ruby, I can go over details of our Whole Life insurance policy with you.",Sure.
+Whole life insurance is permanent Life insurance meaning the policy never expires or ends unlike Term Life Insurance policies.,Yes and that's why I've made the decision to go with the whole life insurance even though the term offers more money for my love one's.
+"You're right, it does offer less pay out and is a little more expensive than Term but usually Term life insurance only covers a minimum number of years while Whole is for a lifetime.",Right.
+And another reason to get Whole Life Insurance is because there's cash value in an Whole life insurance policy.,#Oh really!
+"Yes, you can borrow from the cash value of this type of insurance after it has accumulated enough value.","#oh, thank you for that information, I didn't know that."
+"We'll first, let me go over the pricing and the fees.",Okay.
+Let me see what type of life insurance payout range are you thinking about.,"I have a husband and children and hope to live long enough to have grandchildren, so I was thinking around one hundred thousand dollars."
+"We'll, hold on Miss Ruby while I calculate some numbers.",Okay.
+"Hello, I'm back.",Okay.
+"So you're fourty one years old and are you in pretty good health, I mean go to the doctor pretty regularly and don't have any major health problems.","Yes, all of that is correct."
+So our one hundred thousand dollar policy will cost you one hundred and twenty dollars a month or one thousand two hundred upfront for the whole year which will save you two hundred dollars.,Uh-huh okay.
+"We can start the policy now, but there is a medical form that I will have to send you to verify that you are in generally good health.",Okay.
+"Not great health, laughter, not to many of us are in great health but just pretty generally overall healthy with no major health problems.",Laughter.
+"And who would you like to list as beneficiary of your policy, it can be anyone, and I will need their full name and address.",I would like to list my husband.
+"Okay, his name?",Jerome Ruby.
+Spell that for me please.,Jerome J E R O M E.
+J E R O M E.,Yes. and Ruby is R U B Y.
+"Okay, now Miss Ruby is his address the same as yours.","Yes, it is."
+"Miss Ruby, would you like to pay monthly or annually.",I will pay the monthly amount.
+"It will be one hundred and twenty dollars, can I have your sixteen digit card number?",It's two two two two three three three three four four four four.
+Okay two two two two three three three three four four four four.,Yes.
+Can I have the month and year?,five five twenty five.
+Now can I have the three digit CVC?,It's four three two.
+"Okay Miss Ruby, I've taken your payment. Your date of enrollment of the one hundred thousand dollar Whole Life Insurance plan is today, eight fifthteen twenty twenty-one.",Thank you.
+You will recieve the medical form and policy papers within ten working days.,"Okay, thank you."
+Is there anything else I can do for you today?,No.
+"Well, Miss Ruby, it's been a pleasure helping you and have a good day, Bye Bye.",Bye.

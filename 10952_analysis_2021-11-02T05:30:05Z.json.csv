@@ -1,0 +1,37 @@
+agent,customer
+"Good afternoon, this is Candice. Thanks for calling Rivertown Insurance. What can I do for you today?",I'm calling to change my security question.
+"#Oh, ok. Was there a problem with your account?","#Um, I'm not sure. I received an email with that said there was unauthorized attempt to access my account."
+"#Uh-oh, that's not good.","Right. It worried me. I thought it would best if I changed my password, too."
+Ok. I can help you with both of these.,"#Oh, I only to your help with the security question."
+#Oh?,I already changed my password online.
+"Ok. Got it. And, you weren't able to change your security question online?","#Oh, I didn't try. I didn't know you could do that, too, online I mean."
+"You can, but I'm happy to help you with it now.",Thanks. I appreciate it.
+My pleasure. Can I start by getting your full name?,"Yes, it's Imogen Anderson."
+Ok. Can you spell Imogen for me?,Sure. It's i.m.o.g.e.n.
+Thanks. You don't hear that name very often.,Right. It's a family name. My great grandmother's name.
+"#Oh, how nice. You've got tradition in your family.","Do we ever. My sisters, the five of us, are all named after a relative."
+Do you like that or are you nontraditional?,"I'm fine with it, but a couple of my sisters don't like their names, so they go by their middle names instead."
+Really? Why?,Their names are Eugena and Gertrude. They're just not very modern. One says it makes her sound like she's an old lady.
+I think it's cool to have a different name.,"Me, too, but they both have hated their names their whole lives. They call me lucky because I got Imogen. ."
+"Well, I think they're all very nice names.","Well, thanks. ."
+"Ok, Imogen, I'll need your birthdate.","Sure. It's May thirtieth, nineteen ninety two."
+"Ninety two. Got it. And, even though you're changing your security question, I'll need to ask your current one to verify your account.",No problem. Go ahead.
+What is the name of your favorite teacher?,Missus Hanney.
+That's not what I show. Is there more to that answer?,#Oh. Right. It's Jane Hanney.
+That's it. Thanks for verifying.,#Mhm.
+"I've pulled up your account and we can go ahead and change that question. The options are, mother's maiden name, childhood best friend, high school, or first pet.",Ok. I'll go with first pet.
+Sure. One second.,#Mhm.
+Go ahead.,Mister Jingles.
+Cute!,Yeah. He was my first hamster and my mom got him for me at Christmas because my dad was in Army and in Iraq for Christmas that year.
+"#Oh, gosh. That must've been hard.","Well, I barely remember it, since I was so young, but I remember being sad he was gone."
+How long did you have Mister Jingles?,"Strange enough, that as soon as my dad came back, mister Jingles died."
+#Ah.,"Yeah, I think it was probably his time to go anyway, I mean as far as hamster lives go, they probably don't live that long anyway."
+#Oh. Got it.,"My dad was gone for like a little over a year, then came home for about three months, then went back again for another year."
+Crazy.,"Yeah, about three years, I think."
+"Well, I'm glad your dad made it back.","Me, too."
+Is he still in?,The military? No. He finally retired. I think my mom was glad about that.
+"I can imagine. So, Imogen, I have updated your security question and you said you changed your password online, correct?",#Yep. All taken care of.
+"Good. So, that should take of anyone trying to hack your account, but I'll make sure our tech team knows about this. You're not the first person today to call with this issue.","Really? #Oh, good thing I called then. Thanks."
+My pleasure. Is there anything else today?,#Nope. That'll do it.
+"Great. Well, thanks for calling Rivertown. I hope you get to do something fun this weekend!","Thanks! You, too."
+Thank you. Bye.,Bye bye.

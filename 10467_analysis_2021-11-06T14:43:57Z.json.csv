@@ -1,0 +1,27 @@
+agent,customer
+"Hello, thanks for calling Rivertown insurance customer service. How may I help you?","Hi, I'd like to enroll in an insurance plan."
+"Okay, which of our plans would you like to enroll in?",can you tell me about your insurance plans?
+"Automobile plan, condo plan.",Did you say condo plan?
+"Yes, condo plan.","Okay, you can proceed."
+"Homeowner, life, pet and renters plan. Which would you like to enroll in?",Life insurance.
+"Okay, so first you'll need to create an account.",Okay.
+I'll need your first name and last name.,Lennon Bey.
+"Okay, Lennon as the first name and Bey as last name?",Yes.
+Please provide your phone number.,Six four four nine seven seven one nine two four.
+"Okay, for your security question, would you prefer your mother's maiden name, the name of your high school or the name of your first pet.",I'd prefer the name of my first pet and he was Crux.
+What's your date of birth?,"August twenty-four, four thousand."
+Your street address please.,"One four four seven Tipple Road Philadelphia, Pennsylvania."
+"Okay, so your state is Pennsylvania.",Yes.
+And your city is?,Philadelphia.
+What's your zip code please?,Three three one zero one.
+You'll need to provide your social security number.,Six one four four seven three three seven eight.
+We're done with the account creation. You say you want life insurance is that correct?,Yes.
+"We have the Term Life Insurance which is three hundred dollars yearly, the Whole Life Insurance which is one thousand eight hundred dollars per year and the Universal Life Insurance one thousand four hundred dollars per year. Which would you like to enroll in?",The whole life insurance plan.
+That is one thousand eight hundred dollars per year.,"Yes, how do I make payment?"
+"I'll need your credit card number, the expiration date and the credit card CVV.",My credit card number is six seven nine seven four six six eight seven two two three one one zero four.
+You said your credit card number is six seven nine seven four six six eight seven two two three one one zero four is that correct?,Yes.
+The expiration date please.,July four zero four three.
+Okay. Provide your CVV and proceed to make payment.,Nine four two. Payment made.
+Kindly hold on while I confirm your payment. Your payment has been made successfully.,Okay.
+Is there anything else I can help you with?,"No, that will be all for now."
+"Thank you so much, do have a great day.",Thanks you too. Bye!

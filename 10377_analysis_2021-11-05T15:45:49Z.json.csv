@@ -1,0 +1,28 @@
+agent,customer
+"Good morning, Rivertown Insurance.","Good morning, I need to speak to someone about cancelling my policy."
+"Of course, I can transfer you to someone to take care of that for you. May I have your first and last name?",Sure. My name is Susan Jones.
+"Thank you Susan, I'll transfer you to Jane Smith, she's a customer service agent. She can help you out. Please hold.",Thanks.
+"Good Morning, this is Jane Smith. How may I help you today?","Hi Jane, I'd like to cancel my policy."
+I can help you with that. Do you have your policy number handy?,"Yeah, it's nine three seven two eight four five two."
+"To confirm, nine three seven two six four five two?","No, no, it's eight four five two."
+Nine three seven two eight four five two.,"Yes, that's it."
+"Thank you, am I speaking with Susan Jones?",Yes.
+"Great, hi Susan. So looking at your policy, you pay for it annually, and your term ends October seventeenth of this year.","Yeah, I'm cancelling before it's done, but I'm moving, getting married actually, and I won't need the insurance on my new place."
+"Congratulations. How exciting, So where you'll be moving, already has an existing policy?","Yes, I'm moving to my husbands place, he has a policy in place there already."
+"Okay, that makes sense. So let's get this one cancelled then.",Great.
+"We do require a couple of things, to cancel the policy. Both documents requiring signatures. One to cancel the automatic payment in place, and the other to cancel the actual policy.",Okay.
+"I can email those to you, you can print them off, sign, and either send back, or drop off at one of our branch locations.","Okay, sounds good."
+"We do have another option, to DocuSign electronically. Are you familiar with DocuSign?","yeah, I've done that one time I think, for a real estate transaction. Click click, really simple."
+"Exactly, would that be something you'd prefer? Or would you prefer me to email the documents.","Let's do the DocuSign, quick and easy."
+Perfect. I'll just confirm your email address.,"Okay, it's sjones at gmail dot com."
+"Alright, that's what I have here, I'll just prepare the documents and get them sent off to you. You'll receive two documents for signature, in two separate emails.","Right, okay."
+"It's pretty self explanitory, the process, you just create your signature in the box using your mouse or a stylus, then bring up the document. It will be highlighted in the areas that need signature.","Okay, yeah I remember that, the ugliest signature ever with a mouse. ."
+"yeah, I've yet to see anything that makes a signature pretty, those FedEx machines are the worst, like drawing your name with a fat crayon.",Totally.
+"So, just to finish this off, what day would you like to have the policy cancelled?","The end of this month, July thirty first."
+"Ok, thank you. There will be a refund for the balance of this year, to October thirty first, as you've paid for the full year.","Right, good. Yes. Will you send a check? Or?"
+"I can have it deposited back to the bank we draw it from, or send it out as a check, which ever you prefer.","Great, just drop it back into my bank, that's good."
+"To let you know, there will be a twenty five dollar cancellation fee.",Of course there will I expected something like that.
+"Yes, it's pretty standard. Okay, the documents are ready to send, you should see them in the next few minutes. Get those signed and back to us, then you'll receive confirmation, and all is done.",Easy peasy.
+Just the way it should be. Was there anything else I could help you with today Susan?,"Nope, that's all I needed. Thanks for your help."
+"My pleasure. Thank you for your business, we hope to be able to help you out again in the future with insurance needs.","I'll take a look at our policies after the wedding, you know, as they come up. I'll give a call and see how you compare."
+"Wonderful. Have a great rest of your day Susan, bye bye.","You too Jane, bye."

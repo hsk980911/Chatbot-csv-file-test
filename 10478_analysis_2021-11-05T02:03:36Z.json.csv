@@ -1,0 +1,28 @@
+agent,customer
+"Hello, this is Rivertown insurance customer service. How may I help you?","Hi, I'd like to add dependent of my account."
+Okay. I can do that for you. May I have your first and last name please?,"#en, My name is James Suarez."
+"Okay, James as your first name and Suarez as your last name?",Yes.
+"Okay, I'll also need your customer number and your date of birth sir.",just a second.
+"Sure, please take your time.","Customer number, which exactly is the customer number? I'm not really sure."
+Your customer number is the string of numbers above your profile picture.,"Oh! right, I got it. The customer number is two two right?"
+It should be eight digits long.,"Oh! yes, it is."
+Good. Could you please read that number to me?,Yeah. It's six six six one.
+Six six six one.,Three four four four.
+Three four four four.,"Yep, that's right."
+"Okay, six six six one three four four four, is that correct?","Oh! Sorry, it actually ends with three four four five not three four four four. I thought I saw four."
+Okay. No worries sir. You said six six six one three four four five right?,"Yes, that's right."
+Perfect. May I have your date of birth please?,"Sure. My date of birth is June sixth, nineteen seventy one."
+"June sixth, nineteen seventy one right?","Yep, that's right."
+"Okay, just a moment please.",
+Alright. May I know if the relationship of the dependent is with you?,She's my wife.
+Okay. May I know her first and last name?,Her name Diane Magret.
+Okay Diane as the fine name and Magret as the last name?,Yes.
+Kindly provide me her birth date.,"Okay, a moment please let me ask her."
+Take your time sir.,"It's December thirty first, nineteen eighty nine."
+"December thirty first, nineteen eighty nine.",Yes.
+Kindly provide me a short description of the health condition of the dependent.,She is healthy and doesn't have any history of illness.
+Okay. Can I proceed with the adding of the dependent?,Please do.
+The dependant is successfully added.,thanks.
+"Yea, do I have any other thing to do for you?","No, that will be all for now."
+Alright thanks for your call sir. Do have a great day sir!,Thanks and you too.
+Bye!,Bye!

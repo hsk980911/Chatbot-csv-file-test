@@ -1,0 +1,29 @@
+agent,customer
+"Hello, thanks for calling Rivertown insurance customer service. How may I help you?","Hi, how're you doing?"
+I'm fine. How may I help you?,I will like to get the policy number of the planed I enrolled in. I tried doing that on your website but I couldn't.
+"Okay, may I know your first name and your last name?","Yes, my first name is Paul and the last Cobb."
+"Okay, I'll also need your customer number and your date of birth sir.",just a second.
+"Sure, please take your time.","Customer number, which exactly is the customer number? I'm not really sure."
+Your customer number is the string of numbers above your profile picture.,"Oh! right, I got it. The customer number is four four right?"
+It should be eight digits long.,"yes, it is."
+Good. Could you read that number to me please?,Yeah. It's seven seven seven one.
+Seven seven seven one.,four four four three.
+four four four three.,"Yep, that's right."
+"Okay, seven seven seven one four four four three, is that correct?","Oh! Sorry, it actually ends with four four four two not four four four three. I thought I saw three."
+Okay. No worries sir. You said seven seven seven one four four four two right?,"Yes, that's right."
+Perfect. May I have your date of birth please?,"Sure. My date of birth is Feburary tenth, nineteen fourty one."
+"Feburary tenth, nineteen fourty one right?","Yep, that's right."
+"Okay, just a moment please.",Okay.
+Alright. May I know the plan you enrolled in?,I enroll in life insurance plan.
+Okay.,Yes.
+Kindly wait while I generate the policy number for you sir.,Please do.
+Alright I'll start calling the policy number now.,Alright.
+One five two four.,Okay.
+Zero zero four four.,
+Nine five.,Yep.
+Can you call it for confimation?,One five two four.
+Yes.,Zero zero four four.
+Yes sir. Go on.,Nine five.
+Okay good that's the policy number.,Thanks so much I really do appreciate.
+May I know if there is anything I will do for you again?,"No, that will be all for now."
+Thanks for your call. Do have a great day!,Thanks and you too. Bye!

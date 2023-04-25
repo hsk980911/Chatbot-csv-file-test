@@ -1,0 +1,30 @@
+agent,customer
+"Hello, thanks for calling Rivertown insurance customer service. How may I help you?","Hi, I'd like to remove one of dependant in my account. I tried to do so on your website but couldn't. I guess I have to make a phone call for you to help."
+Okay. I can do that for you. May I have your first and last name please?,My name is Timothy Gomez.
+"Okay, Timothy as your first name and Gomez as your last name?",Yes.
+"Okay, I'll also need your date of birth sir.","My date of birth is May twenty two, nineteen fourty one."
+"May twenty two, nineteen fourty one.",yes.
+Kindly provide your phone number and social security number sir?,Phone number two one six.
+Two one six.,Six one seven.
+Six one seven.,Zero seven three five.
+Zero seven three five.,Yes.
+The SSN sir.,What's SSN?
+Social Security Number.,Oh! That's three zero one two four nine three three two.
+Three zero one two four nine three three two.,"Yes, that's right."
+Perfect. May I know the answer to your security question please?,Sure. My mother's maiden name is Adkins.
+Adkins.,"Yep, that's right."
+"Okay, just a moment please.",
+Alright. Please provide me with your policy number?,What will you need that for?
+Okay. To know the plan you enrolled in.,"Well, is it those ten digit number?"
+Yes exactly.,Two two one one.
+Two two one one.,Three zero one two.
+Three zero one two.,Five nine.
+Five nine.,Yes.
+Now kindly tell me the dependant name.,Her name is Sarah Gomez.
+Okay Sarah as the first and the last as Gomez.,Yes.
+May I know if I can proceed with the dependant removal?,Yes please do.
+Okay wait a moment.,okay.
+The dependant as been removed successfully.,Thanks.
+May I know if I can do anything else for you?,No that's all for now.
+Alright do have a great day!,Thanks and you too.
+Bye!,Bye!

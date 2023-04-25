@@ -1,0 +1,51 @@
+agent,customer
+"Hello, thanks for calling Rivertown Insurance, this is Crystal. How can I help you today?","Hi, did you say this is Rivertown Insurance?"
+"Yes, it is! How can I help you sir?","Well, I'm not sure if you can help me, it's Crystal right?"
+"Yes, this is Crystal.","Okay, Crystal, my wife usually handles all of the bills, but she's been sick so I was calling to see if the bill for last month had been paid she's been sick for a few weeks now and I'm not sure if she paid the insurance can you help me."
+"Of course, I would be happy to help! #Ah, what is your name sir?",It's John.
+"Okay, yes John I can definitely check to see the status of your bill. And also, sorry to hear about your wife, I hope she feels better soon.","Thank you miss Crystal, it's been hard but we are getting through it."
+"Of course, glad to hear it. So to start, I just need to get a few pieces of information from you so I can verify your identity. Is that alright?","#Uh, yes, yes. That will be fine."
+"Okay, great! So the first question is an easy one. I already know your first name is John, and what is your last name?",It's Rivers.
+"Okay, and what is your date of birth?","It's February thirteenth, oh wait am I supposed to be giving you my wife's info or mine? I'm not sure if the account is under my name or hers."
+"#Uh, you can just give me your info and if we are unable to get verified, then we'll check to see about your wife's info. Sounds good?","#Uh, yes. So you were asking about my birth date right?"
+That is correct.,"Okay, it's February thirteenth nineteen forty seven."
+Okay! And the last thing I need to verify you is your customer number. Do you know what your customer number is mister Rivers?,"#Um no, I don't think so. Where would that be?"
+"#Uh, it could be a couple of places such as on a piece of mail you've received from us, or under your profile when signed into your account. Do you have access to an old piece of mail from us, or can you sign into your account?","#Ah well, I don't really use computers I don't know anything about that. My wife maybe it could be in the basket of mail in the kitchen. Can you wait while I check?"
+Of course!,"Okay it might take a little while, I'm using a walker and it's down the hallway."
+"That's totally fine mister Rivers, I will be right here once you get back.",Okay I'll be right back.
+Sure thing.,"#Uh Crystal, are you there?"
+"Yes, I am mister Rivers! Were you able to find a piece of mail?","Yes, I think so. It says Rivertown Insurance. #Um I do see something that says customer number."
+Awesome. Can you read the digits out to me?,I can try the print is pretty small. My eyes aren't too good.
+"That's totally fine, just do the best you can!",Okay nine seven three one seven four nine eight.
+So that is nine seven three one seven four nine eight?,"Yes, I think so. Did it work?"
+"Yes, it sure did mister Rivers! So now we just have to get into your bill history and see if you're all paid up for last month.","Okay, did you need anymore information from me?"
+"Nope, just give me one moment to check on that bill.",Okay.
+"Alright, so mister Rivers, it looks like the bill from February still needs to be paid.","Okay, so how do I do that? Nancy always did it I'm not sure how to pay the bill. Can you help me?"
+"I sure can mister Rivers, we can take care of that over the phone.",Okay thank you.
+No problem! Did you want to pay using a bank account or a credit card?,"#Uh, I think Nancy usually pays the bills using the card."
+"Okay, we can definitely do that! Do you have the card near you mister Rivers? I'll just need some information from your bank card.","#Um, I will have to go get the card I don't have it, it might be in Nancy's purse. Can you stay on the line?"
+"Yes, I can!","Okay, I will be right back."
+Sure!,"Okay, Crystal are you there? I have the card."
+Yes I am here!,Okay what information do you need?
+Let's start with the sixteen digit card number. Are you able to read the numbers out to me mister Rivers?,"Yes, I have my glasses on now."
+Awesome.,"It's two three one zero three zero nine eight three three nine one, I mean eight one zero eight seven."
+"Okay, just to confirm that is two three one zero three zero nine eight three three nine eight one zero eight seven.","Yes, I think so."
+"Okay, great! Now do you see the expiration date?",Yes. It's March twenty four.
+"Okay! And last thing, what is the three digit number on the back of the card?",Did you say on the back?
+Yes.,"Okay, nine eight eight."
+"Got it! So before I put the payment through mister Rivers, just to confirm we are paying your bill for February for the amount of one hundred and fifty seven dollars and eighty three cents. Is that okay?",Yes.
+Okay! I have put your payment through mister Rivers. Your bill is paid effective of today March fifteenth and your next bill payment date is April sixth.,Okay so does that mean I will have to go through this process all over again?
+"Well actually, we do have something called recurring payments that I can set up for you! That way you will be billed automatically each month and you won't have to call in again.",Oh well how does that work?
+"Well we would just use the card you just gave me or whatever payment method you would like and we would decide if you wanted to be billed every month automatically and then it would just be taken care of, and you wouldn't need to do anything else. Does that sound like something you would like mister Rivers?","#Um, that does sound good. I don't know if Nancy, she might not would want that though. I don't know if she would want that."
+That's totally understandable. We don't have to set it up today. You can always call back and we can get it taken care of.,"If I call back, will I get you?"
+"#Uh, you may, if I am here. All of our agents will be able to take care of you though.",Okay.
+So what would you like to do?,"#Uh, can you hold for a moment? I want to see if Nancy is awake."
+Sure thing!,"Hello, are you there?"
+Yes I am!,"#Uh, she wasn't awake. I think we'll just call back."
+"Okay, that is totally fine. Was there anything else that I can help you with mister Rivers?","#Uh, I don't think so. So the bill is paid?"
+Yes it is.,So the next one is due in April?
+"Yes, sir, April sixth.","Okay, thank you."
+You are very welcome!,And I just have to call back to pay that bill?
+"#Uh, yes sir you can call back or go online to pay the bill. And also you can still set up the automatic billing if you'd like.",Okay. Thank you Crystal for your patience.
+"It is no problem mister Rivers. Have a good day now, okay?","Okay, you too."
+"Thank you, bye!",Bye.

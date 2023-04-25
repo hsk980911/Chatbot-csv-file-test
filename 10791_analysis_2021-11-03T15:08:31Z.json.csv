@@ -1,0 +1,49 @@
+agent,customer
+"Good morning, thank you for calling Rivertown Insurance. This is Abdul, how may I help you?","#Uh, hello? I just wanted to find out how to find an agent close to me."
+"Yes, I can help you with that. With whom do I have the pleasure of speaking with today?",What?
+"May I have your name, please.","#Uh, this is Jackie. Jackie Strong. That's s as in salmon, t as in telephone, r as in-."
+"Yes, s-t-r-o-n-g, is that correct?","Yes, that's right. Sometimes it's hard to understand each other."
+"May I have your birthday, miss Strong?","#Um, it's missus Strong."
+"I'm sorry, missus Strong. May I have your birthdate?","#Uh, is that how you look up the account?"
+"Yes, ma'am. We will need your birthdate and customer policy number.",My what now?
+Your number associated with your policy. We need this information for verification purposes.,"Oh. I don't have my policy number. I do everything autopay so, you know, I don't get a paper bill with that stuff on it."
+"We can also look up the information with birthdate, telephone number, social security number and security question.","Oh, I can give you my phone number."
+"Yes, missus Strong. That will help, but I will need all those peices of information to verify the account you don't have the policy number.","What? That's a lot of info . I mean, no offense, but I'm not giving out that kind of information."
+"Well, I can try to just give you the names of agents close to your location if you give me your address. However, without looking at your account I won't be able to customize your experience-.",Just do that. Just give me names.
+"Okay, missus Strong. One moment please while I pull up agent resources.",Thank you.
+"Okay. Are you there, ma'am?",Yes. I'm still here.
+"May I have your address, please?","How about my zip code and city? Isn't that enough? I mean I don't wanna be giving out my personal information just over the phone, you know."
+"I understand, missus Strong. Yes, zip code would be helpful.",Okay. eight four one one eight.
+Thank you for that information. One moment while I search for agents in your area.,Yep.
+"Are you a home, auto, life insurance or pet insurance holder with us, missus Strong?","Well, we do the home and auto. Don't know about the life insurance. Can you check to see about that?"
+"Of course, missus Strong. In order for me to view your account I will need-.","Oh yeah, you'd need all that other information, huh? Well, I. I don't know. I just don't want to be, giving that information over the phone, you know?"
+"I understand, missus Strong. We have these verification processes in place to protect your account.","Oh, yeah, I know. But, you can just trust everyone with your social security number, you know? What if someone's listening?"
+"I understand, missus Strong. If you are more comfortable to logging into your account online and writing down your policy number, you could always-.","Oh yeah, I could do that now! Are you okay to wait? It will just be a sec."
+"Sure, I can hold.",Okay. Just a sec.
+...,Okay. I'm logging in now.
+"That's great. Just let me know when you're ready, missus Strong.",Okay. Putting in the password now.
+Uh huh.,Guess I got it wrong . Let's try that again.
+...,Okay. It's loading.
+"That's great news, missus Strong.",Are you there?
+"Yes, I'm here. Do you have the number?","Where do I find the number? I see my name and my policies...looks like home and auto bundle. I have home and auto bundle. I don't have life insurance. Huh. I thought maybe, but maybe it's through Doug's work? I don't know."
+We could always give you options of seeing if life insurance could be bundled on your-.,"No, Doug's got it. My husband's already got it. #Uh, we don't need any of that."
+"That's fine, missus Strong. Do you have your policy number.","Yes, I see it right-right here. It's...let me get on my glasses. Are you there?"
+"Yes, I'm ready.",It's one one one three--.
+Uh huh.,"four five, no make that five four four eight."
+Great! Thank you for verifying your account. We can personalize your agent preference now. Do you have any preference in location? We have an agent in West Valley--.,"No, that's too far. I want someone really close. Sometimes I have to bus it 'cause we only got the one car."
+"You want to be able to go see your agent? Just so you know, missus Strong, our agents are most likely to communicate with you by phone or come to you. We are still using a mask policy for your protection as well.","Masks? Oh, no. I don't do masks. Can't breath, you know? Tell them I'm not wearing a mask."
+"#Um, it's unlikely you'll be meeting with-.",It's my choice to wear a mask.
+"I understand, missus Strong. I was just saying that it's-it's unlikely you'll be meeting with your agent in person.","Well, who is it?"
+The agent? Let's see here. Looks like Elizabeth Wallen in West Valley is the closest-.,And she'll call me?
+"Yes, she will communicate with you by phone, email or can set up a Zoom chat-.","Oh, no. I'm not doing the Zoom."
+There are multiple ways in which Elizabeth can contact you and answer any questions you might have.,"Yeah, I just want to know who my agent is so I can put the number in the phone."
+Would you like Elizabeth to be your agent? We also have Jose Martinez-.,"No, I want that Elizabeth. Get me Elizabeth."
+"Great. I've made note that Elizabeth is your preferred agent. You should receive a confirmation shortly providing the complete contact information for Elizabeth. I can also give you that information now, if that works for you, missus Strong.","No, I don't need it now. I just want to put it in my phone in case of emergency. You've got to be ready for emergency."
+"Yes, ma'am. It's always good to-.",What about my pet insurance?
+"Well, you have not yet selected to have pet insurance, but we could easily sign you up for it if you're interested. In fact, I believe, let me look here. Yes, it looks like by bundling the pet insurance with your home and auto you can save an additional fifteen dollars per six month period.","Hm. Well, what does it cover? The pet insurance?"
+"We have several plans available. Let me take a look here, we don't usually I'm not very familiar, but I can look up-.","Yeah, look up to see if it covers horses."
+"#Um, missus Strong, it looks like the insurance does not cover any farm type animals.","Oh, I see. Well then, nevermind. My dog's nine and she's just one cloud away from heaven."
+"I am sorry to hear that, missus Strong. But maybe it would still be useful to pursue insurance, especially as the pet is in her senior years-.","Nah, she's had a good life. Farm dog, you know. Anyway, okay. I'll go get that email and put the number in my phone."
+"Okay, sounds like a plan. Please feel free to call back if you have any questions.","Oh, I'm going to call that Elizabeth."
+"Yes, she will be your agent. I just meant if you had any future questions about pet insurance or life insurance or--.",I don't need no pet or life insurance. Doug's got the life insurance.
+"That's right. Okay, then. Thanks for calling, missus Strong. You have a good day.",You too.

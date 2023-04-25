@@ -1,0 +1,52 @@
+agent,customer
+"Good morning, this is Darien with Rivertown insurance. How may I help you?","Hi there, I'm looking to save some money, so I need to change my auto insurance plan."
+"Alright, I'm happy to help with that.","Great, thanks."
+"First, I just need to ask you a few questions so I can pull up your account.",Okay.
+What is your name and date of birth?,Matt Gonzales and eleven ten nineteen ninety.
+"Thank you, sir. And what is your phone number?","Oh, it's five six three eight two nine nine three seven one."
+And can you tell me your social security number?,Three two three.
+Three two three.,Forty six twenty nine.
+Four six two nine.,Fifteen.
+"One five. Thank you, sir.",Got all that?
+Yes sir. Now I just need you to answer a security question.,Okay.
+Who was your favorite teacher?,"#Uh jeez, why did I pick that one? #Um mister Hawkins?"
+"Yes, that's right.","Whew, glad I remembered."
+"So I've pulled up your account, and I see right now you're on the Complete Auto plan.",Right. The expensive one.
+And you're sure you want to change to a lower tier?,"I need to, unless you can give me a discount."
+#Ah which plan were you interested in moving to?,#Uh the middle tier one. I think it's called the Premium plan?
+"Preferred Auto, okay, I can do that for you.","Sounds great, thanks."
+"No problem, sir.",How much money will this switch save me?
+#Ah it'll be a difference of five hundred dollar as a year.,"Wow, that'll help me out a lot. What does that break down to monthly?"
+#Um. One moment.,Okay.
+So that'll be a premium of one hundred and sixteen dollars per month.,"Awesome, that's much better."
+Glad to help.,So what exactly are the differences in the tiers? Between Complete and the one I'm switching to?
+"Well sir, in an accident Preferred covers medical for you and other drivers.",Mhm.
+"It'll also cover the repair of vehicles involved, no matter who's at fault.",That's pretty good. It doesn't sound like much of a downgrade.
+"Right, it's still a comprehensive plan.",Isn't there a third option?
+"Yes, Basic Auto.",Is it cheap?
+"It is our least expensive plan, yes. But it's essentially just liability insurance.",What's liability insurance?
+It's the required minimum in most states. In an accident it'll only cover damage to the other person or their vehicle.,"Oh, so it doesn't really cover me or my car?"
+Right.,And what all does the one I'm on now cover? Complete Auto?
+"So Complete Auto covers what Preferred does, but also includes situations like vandalism, theft, and damage from severe weather.","Okay. Well that stuff is nice, too, but I really need to save the money."
+"I understand, sir.",Between Preferred and Basic which do you recommend?
+"Even though you're trying to save, I would still recommend Preferred over the minimum coverage plan. It's our standard plan and you'll contiue to be provided with excellent coverage.","Better to be safe than sorry, huh?"
+"Exactly. You want to be completely covered in case of an accident. Preferred will do that, but cost you a little less than Complete.","Okay, I'm happy switching to that one then."
+"Great, I'll make that change in the system for you.",Thank you.
+You're very welcome.,#Uh since the month's already started what happens with my next payment?
+Your next payment will be prorated.,What's that mean?
+"You'll pay your original premium up until this change goes through, and the rest of the month will be calculated based on the new premium.",And how long will that take? To process this change.
+It should take two business days.,It's not instant?
+"No sir, it'll have to go through an approval process.",Oh okay. Can you give me an estimate for my next payment then?
+"Sure, sir, give me one moment to calculate.","Okay, thanks."
+"So, mister Gonzales, your current payment is one hundred and fifty five dollars a month.","Right, okay."
+"Assuming your new plan is processed by the thirteenth, that'll be about sixty five dollars until then.",Uh-huh.
+"And then for the remainder of the month, it'll add fifty nine dollars. Bringing next month's total to one twenty four.",So not too much more than my new premium.
+That's correct.,And the month after I'll start paying the new amount going forward?
+Yes sir.,"Okay, good to know. #Uh does my payment date change or anything?"
+"No, sir.",And it's still an annual contract?
+"Yes, sir, the term is still twelve months from when the change goes through.",Oh so it starts over?
+"Right, it's treated like a new policy. You'll get a renewal notice in twelve months.",Otherwise I'm not affected?
+"No, sir.","Well good, thanks for your help."
+"Of course, mister Gonzales. Is there anything else you need help with today?",No. That'll be it. Appreciate your help.
+"You're welcome, sir. Thank you for your call.","#Uh, have a good rest of your day."
+You too. Goodbye.,Bye.

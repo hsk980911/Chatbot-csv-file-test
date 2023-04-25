@@ -1,0 +1,44 @@
+agent,customer
+"Good morning, my name is Robin, thank you for calling, how may I help you?",hi my name is Jeremy.
+"Okay Jeremy, how may I help you?","I was discussing with a friend and she told me about how she was able to add a relative of hers to her plan, are you with me?"
+yes.,I would like to know if I can do the same on my plan.
+Sure you can. You'll have to add the dependent or dependents depending of the number of persons you want to add.,you mean I can add more than one person.
+Of course you can.,interesting. I like this already.
+"Before I can add the dependents, you will have to provide some information so I can verify your identity.",That can't be a problem.
+"Alright Jeremy, I'll need your first name, last name and your date of birth.",first name is Jeremy.
+J E R E M Y.,Last name is Barrack.
+B A R R A C K?,Yes.
+"Okay, please proceed.","My date of birth is two one, zero eight, one nine nine zero."
+Next is your customer number.,Customer number is what?
+It's the eight digit number on your insurance card.,"Oh, I need my insurance card?"
+Yes you do.,Please hold on while I go get it.
+Okay Jeremy.,I have it with me now. You said the eight digit num-ber on my card?
+Yes.,Thats six two one one.
+Six two one one.,Seven eight zero zero five.
+"Seven eight zero zero five? Thats a nine digit number, I think there's a mistake somewhere. Could you call the numbers again?","Okay, six two one one."
+Six two one one.,Seven eight zero five.
+Seven eight zero five?,Yes.
+Please hold on while I verify your identity. Your identity has been verified.,"Oh, okay."
+Next is your policy number. It's a ten digit number.,One zero seven eight.
+One zero seven eight.,Three nine nine four.
+Three nine nine four.,One four.
+One four?,"Yes, that's it."
+"Jeremy, it shows here that you enrolled for a whole life insurance plan, is that correct?","Yes, Thats correct."
+"Alright Jeremy, to add a dependent, I'll need some information about them.","#Okay, but it's two dependents I want to add."
+Thats not a problem.,Could you tell me the first dependent's relationship with you?
+She's my wife.,"Okay, thats your spouse."
+"What's her first name, last name and date of birth.",Her first name is Susan.
+S.u.s.a.n.,Last name is Barrack.
+B.a.r.r.a.c.k.,"Her date of birth is zero seven, zero three one nine nine three."
+What's Susan's health issues?,She has cancer.
+so sorry about that.,"Yeah, thanks."
+Could you go ahead and provide same details for the second dependents.,her relationship with me is parent.
+"What's their first name, last name and date of birth.",Her first name is Lucia.
+L.u.c.i.a.,Her last name Barrack.
+B.a.r.r.a.c.k.,"Her date of birth is zero one, zero eight, one nine six seven."
+"Okay, what is Lucia's health issue?",She is healthy and doesn't have any history of illness.
+"Okay, please hold on while I add your dependents.",When will it become effected?
+Immediately they are added.,"Okay, you can proceed with it."
+Susan and Lucia have been added as your dependents successfully.,thats it?
+Yes Jeremy. Is there anything else I can do for you?,"No, that's all."
+Thank you Jeeremy for choosing our insurance company.Do have a great day. Bye.,You're welcome. Bye.

@@ -1,0 +1,32 @@
+agent,customer
+"Hello, thanks for calling Rivertown insurance customer service. How may I help you?","Hi, I'd like to make bill payment of my account. I tried to do it on your website but couldn't. I guess I have to make a phone call to do it."
+Okay. I can do that for you. May I have your first and last name please?,My name is Martinez Redox.
+"Okay, Martinez as your first name and Redox as your last name?",Yes.
+"Okay, I'll also need your customer number and your date of birth ma.",just a second.
+"Sure, please take your time.","Customer number, which exactly is the customer number? I'm not really sure."
+Your customer number is the string of numbers above your profile picture.,"Oh! right, I got it. The customer number is four four right?"
+It should be eight digits long.,"yes, it is."
+Good. Could you read that number to me please?,Yeah. It's nine nine nine nine.
+Nine nine nine nine.,four four four three.
+four four four three.,"Yep, that's right."
+"Okay, nine nine nine nine four four four three, is that correct?","Oh! Sorry, it actually ends with four four four two not four four four three. I thought I saw three."
+Okay. No worries sir. You said nine nine nine nine four four four two right?,"Yes, that's right."
+Perfect. May I have your date of birth please?,"Sure. My date of birth is March sixth, nineteen eighty one."
+"March sixth, nineteen eighty one right?","Yep, that's right."
+"Okay, just a moment please.",mhm.
+Alright. May I know the bill period?,One month ago.
+Okay. Please provide me your bank details.,Okay account number.
+Please go on.,Seven two nine nine.
+Seven two nine nine.,Nine nine five seven.
+Nine nine five seven.,Five four.
+Okay Five four.,Yes.
+Bank account type?,It's a checking account.
+Checking account.,Yes.
+Bank routing number please ma?,Two two zero seven five four nine six two.
+Two two zero seven five four nine six two.,Yes.
+Wait a moment while I do that.,Okay.
+Can I proceed with the payment?,Please go on.
+You have successfully paid the bill ma.,Thanks.
+Is there's anything else I can do for you?,"No, that will be all for now."
+"Okay, thanks. And do have a great day!",Thanks and you too!
+Bye!,Bye!

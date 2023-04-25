@@ -1,0 +1,31 @@
+agent,customer
+"Hello, Good Afternoon, this is Laura Rompus with Rivertown Insurance Company. How may I help you today and with who am I speaking with?","Hi, my name is Helen Marie and I'm calling because I can't get into my online accountm."
+I see.,And I tried to log in multiple times but it says my account is disabled and to call customer service.
+"Well, Miss Marie, I'm sorry you couldn't get into your account.","I know right, I use the same darn password for everything and for some reason it's not working."
+"Well, Miss Marie, Ill be happy to reset your password so you able to log back into your account.",Thank you.
+"Miss Marie, before I can reset you password, I will first #huh, have to confirm your identity.",what do you need.
+"First, can you spell your first and last name?","Yes, thats Helen spelled H E L E N."
+"to confirm, H E L E N. Is that correct?","Yes, it is."
+Now the your last name.,"Yes it's Marie, M A R I E."
+"M A R I E, right?","Yes, thats correct."
+next I will need your date of birth.,"Could you hold, please."
+"Yes, thats fine.","Hello I'm back, I had to answer the door for the delivery man."
+"Miss Marie, no problem, I'm ready when you are.",you wanted my birthday right?
+Yes.,"It's two two nineteen eighty, no I mean seventy six."
+Did you say two two nineteen eighty six.,"no, I said two two nineteen seventy six."
+I'm very sorry Miss Marie.,Thats fine.
+Two two nineteen seventy six.,"Yes, thats correct."
+"Okay Miss Marie, I have your name and your date of birth.",Do you need my address?
+"No, Miss Marie the last thing I will need from you is your Customer Number.",what is that?
+Do you have any of your policy makings that weve sent you?,"Yes, hold on."
+"Thats fine, Ill hold.","Okay, I have the last policy letter that yall sent me."
+"Okay, Miss Marie, if you will look at the upper right of the letter, you should see an eight digit number.","Wait, I'm looking for my glasses, okay I found them."
+"Great, can you give me that eight digit number?","Yes, it's three three two seven seven five one four."
+Did you say three three two seven seven five one four?,yes I did.
+"Miss Marie, on that same letter, there is an eight digit number on the left side that says policy number, can you give that to me?",Okay.
+I have hmseven eight nine at goodmail dot com.,"Yes, thats correct."
+"Miss Helen, hold on as I unlock your login account and send you a reset password link to your email.",Okay.
+"Miss Helen, Ive unlocked your account and Ive sent a reset password link to your email. You should have received it already but sometimes it can take up to fifteen minutes to arrive, if you don't see it, please check your spam folder.",Okay.
+"Miss Helen, is there anything else I can help you with today?","No, I think that will be all."
+"Well Miss Helen, it was nice talking with you and if there is ever anything we can help you with, give us a call.",Thank you.
+"Alright now, bye bye.",Bye.

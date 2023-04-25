@@ -1,0 +1,38 @@
+agent,customer
+"Hello, thanks for calling Rivertown Insurance customer service. How can I help you today?","yes, I've made my account online and I've been doing my research, so I think I'm ready to enroll."
+"Sure, I can help you enroll in one of our insurance plans. First things first, can I have your name and date of birth?","Oh yeah, this is Jane Brown and my birthday is June fifth."
+Thank you. What is your birth year?,"Oh sorry, yeah, it's nineteen eighty four."
+"Thank you. I also need your account number, If you have that handy.","yeah, I've got that in my email I think. Let me see real quick."
+Sure.,"Here it is, okay, my account number is five four seven six nine."
+"Five four seven six nine, is that correct?","Yep, that's it or at least that's the number listed in my email confirmation."
+"Great, let me look up your account.","Thanks. I created my account earlier today, so hopefully I did everything right ."
+"Yes, I have your account pulled up. Which insurance plan are you wanting to enroll in?","So okay, yes, I'm wanting to get car insurance."
+"Great, do you know which automobile insurance you are interested in?","I think so. I researched the plans earlier, and I think I want to go with the preferred one."
+"The preferred auto insurance? Sure, I can enroll you. What is.",Is that one one thousand per year?
+"no, the one thousand per year is the basic auto. The preferred auto is fifteen hundred per year.","Oh, okay. I couldn't remember the price but I definitely want the preferred one."
+"Sure. What is the make, model and year of your vehicle?",It's a Honda SRV and it's a two thousand twelve.
+"Okay, thank you. So when did you need the insurance to be effective?","well, I guess as soon as possible."
+Okay. I can make it effective starting today.,"Oh! That would be great, thanks yeah."
+"Okay, so I made the effective date today, June fifteenth. Now, do you want to pay monthly, every six months or annually?",are there any benefits to paying all at once? Like any discounts or anything?
+"Actually yes, you get a five dollar discount for paying either every six months or annually.","Oh sweet, well I had planned on paying annually so let's do that."
+Sure. I will need a credit card whenever you're ready.,"Oh sure, let me go get it."
+Okay.,"Okay, I have it."
+Great. What is your credit card number?,It's nine one two three.
+nine one two three.,oh oh five four.
+zero zero five four.,eleven twelve.
+"eleven twelve, as in one one one two?","yep, five five one one."
+last four of five five one one.,Right.
+And expiration?,July of twenty twenty two.
+"Okay, and security code.",that's one two three.
+"Thank you. Once I confirm the enrollment details with you, you will be charged the fifteen hundred dollars for your first year of the preferred auto policy. Because you are payin annually, you will notice a sixty dollar total discount. Every year after that, you will be charged again on June fifteenth of that year.",Okay. Are there any additional fees or is it just the fifteen hundred or whatever it is with the discount?
+"It is just the fifteen hundred, unless you miss a payment then there's a twenty dollar fee.","Okay, gotcha. But I'm enrolled in auto-pay, right? That's what it sounded like."
+"Yes, that is what I set you up with.","Okay, great."
+Great. Is there anything else I can help you with today?,"well, so yeah before I forget, where can I get a copy of my insurance for my car?"
+"Oh yes, now that your enrolled in the preferred auto plan, you should be able to print those papers out from your account.","Okay, let me pull my account up on my computer so I can make sure I see it."
+"Okay, just let me know when you're ready.","yeah, okay, I have my account pulled up."
+"Great. If you click on my account, you should see a pop-up with more options.","Yep, I see that."
+"Okay, one of those is documents. If you click on documents.","Yeah, I see my car insurance now. Cool."
+Great. It should let you both download the proof of insurance as well as print it.,Awesome yeah that's what I was needing.
+Great. Is there anything else I can help you with today?,"Nope, I think that's it now. thanks so much I appreciate the help."
+You're most welcome. Have a great day.,"Yeah, you too."
+Bye.,Bye-bye.

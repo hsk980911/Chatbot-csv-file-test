@@ -1,0 +1,39 @@
+agent,customer
+"Hello, this is Rivertown insurance customer service. How may I help you?","Hi, I'd like to enroll a plan on my account. I tried to enroll after creating an account it on your website but couldn't. I guess I have to make a phone call to enroll."
+Okay. I can do that for you. May I have your first and last name please?,My name is Kristine Johnson.
+"Okay, Kristine as your first name and Johnson as your last name?",Yes.
+"Okay, I'll also need your customer number and your date of birth ma.",just a second.
+"Sure, please take your time.","Customer number, which exactly is the customer number? I'm not really sure."
+Your customer number is the string of numbers above your profile picture.,"Oh! right, I got it. The customer number is seven seven right?"
+It should be eight digits long.,"yes, it is."
+Good. Could you read that number to me please?,Yeah. It's six six six one.
+Six six six one.,seven seven seven three.
+seven seven seven three.,"Yep, that's right."
+"Okay, six six six one seven seven seven three, is that correct?","Oh! Sorry, it actually ends with seven seven seven three not seven seven seven three. I thought I saw three."
+Okay. No worries sir. You said six six six one seven seven seven three right?,"Yes, that's right."
+Perfect. May I have your date of birth please?,"Sure. My date of birth is Decenber sixth, nineteen eighty three."
+"December sixth, nineteen eighty three right?","Yep, that's right."
+"Okay, just a moment please.",mhm.
+Alright. May I know your social security number?,That is five zero five zero.
+"Okay, you said five zero five zero.",Yes.
+Kindly provide me the answer to your security question.,That is my Mother's maiden name.
+Exactly sir.,Her name is Ekstrom.
+"Okay, Ekstrom.",Yes.
+Kindly tell me about the plan you want to enroll.,I would like to know if you offer any kind of Pet insurance. I love pets so much and I think it's only fitting that I insure them.
+Yes ma. We do.,Tell me more about it.
+We have the Petcare Basic which costs five hundred dollar per year.,Okay.
+The other one is Petcare Preferred which cost one thousand dollars per year.,Is that all?
+Yes ma.,Sure. Go on please with Petcare Basic.
+Alright ma.,How can I make payment?
+You will provide me your credit card details ma.,"Okay, I'm using visa card."
+That's not a problem.,seven five three three.
+seven five three three.,Six seven five nine.
+Six seven five nine.,Zero five zero zero.
+Zero five zero zero.,Seven five five three.
+Seven five five three.,Yes.
+What is the Expiration date?,seven twenty twenty six.
+seven twenty twenty six.,What us your Credit card cvv ma?
+That's zero seven six.,Yes.
+You've successfully enroll in plan with us ma.,Thank you.
+Do have a great day!,You too.
+Bye!,Bye!

@@ -1,0 +1,49 @@
+agent,customer
+"Good evening, my name is George, how may I help you?","Good evening George, my name is Kristen Samson."
+Okay.Can I call you Kristen?,yeah sure.
+"Kristen, what can I do for you?",I I'm a new customer and I want to enroll in an insurance plan.
+"thats no problem Kristen, you'll need to create an account first.",can you help me create an account?
+"Of course yes. I would need some information about you to do that, can I proceed?","Yes, I hope they won't be difficult questions."
+"Not at all, can I proceed?",yes you can.
+"can you provide your first name, last name and phone number?",My first name is Kristen.
+K R I S T E N?,"No, it's CHRISTEN."
+"Okay Christen, you can proceed.",My last name is samson.
+S A M S O N is that correct?,yes it is.
+Your phone number please.,Two one eight.
+Two one eight.,Seven nine seven.
+Seven nine seven.,Zero six five zero.
+Zero six five zero?,Yes that's it.
+"Okay for your security question, would you prefer your mother's maiden name, the name of your high school or the name of your first pet.",I'd prefer my mother's maiden name and that is Steve.
+"Next is your date of birth, street address and State.","my date of birth is two one, zero seven, one nine nine three."
+"Two one, zero seven, one nine nine three?","Yes, thats correct."
+Please proceed with the next detail.,"Street address is two six, Flow Avenue."
+"Two six, Flow Avenue. Okay, what's your State of residence.",Florida.
+Flo-rida.,Is that all?
+"No, I've got few more questions.",Okay shoot.
+"next is your City, zip code and your Social Security Number.",My city is Abington MA.
+Abington MA.,Zip code is seven two nine one.
+Seven two nine one.,what's the next detail?
+Social Security Number.,Six three nine.
+Six three nine.,Eight zero zero.
+Eight zero zero.,Five four zero.
+Five four zero. Is that correct?,sure.
+Your account has been created succesfully.,O-o-kay.
+Which of our insurance plans do you want to enroll in?,"the thing is I don't know about your plans, could you tell me about your insurance plans?"
+"sure. We have the automobile plan, the condo plan.",Condo plan?
+"Yes, condo plan. We also have the Homeowner plan, life plan, pet plan and renters plan.",O-kay.
+Which would you like to enroll in Christen?,the homeowner plan.
+"We have the basic home which is one thousand two hundred dollars per year, we also have the home preferred plan which is one thousand six hundred dollars per year and we have the home complete which is two thousand dollars per year.",I'd go for the home complete plan.
+Thats two thousand dollars per year.,Yes. How do I make payment.
+"I'll need your credit card number, expiration date and CVV.","Okay, my credit card number is one six seven zero."
+One six seven zero.,Nine one two six.
+Nine one two six.,Six three eight zero.
+Six three eight zero.,One seven five four.
+one seven five four.,"The expiration date is zero two, two zero two four."
+"Ze-ro two, two zero two four?",Yes. The CVV is nine four two.
+Kindly proceed to make payments.,You said the fee is two thousand dollars per year?
+"Yes, thats correct.","Hold on please, the transaction is in progress. Payment made."
+Hold on whille I confirm your payment.,Okay.
+your payment has been made successfully.,How long will it take for the plan to be effective?
+It is effective already since your payment has been confirmed.,"Okay, thank you so much."
+Is there anything else I can do for you?,that will be all for now.
+Thank you so much Christen for your time. Do have a lovely evening.,"Yeah, you too. Bye!"

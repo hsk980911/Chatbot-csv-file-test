@@ -1,0 +1,30 @@
+agent,customer
+Good morning! Thanks for calling Rivertown Insurance. My name is Roland. What can I do for you today?,"Hi. Well, I seem to have misplaced my insurance card."
+No problem. What did you need your card for specifically?,"#Uh, just to have my proof of insurance for my bank."
+#Oh. Ok. So did you just buy a new car?,Yeah. I have loadn and I need to show them I have full coverage.
+"Got it so the policy you have is for your new car, or your old car?","It's for my new car, but the bank said they didn't receive the policy number from me even though I thought I added it to the loan paperwork."
+"#Oh, I see. So, really, you just need to give them your policy number?",Yeah. That's right. But I also need my card for proof. Like if I get stopped by a cop.
+"#Oh, sure. I understand. I'll need to pull up your account first.",Ok.
+"Let me get your first and last name, please?",Denny Mallard.
+Did you say Denny or Benny?,Denny with a d.
+Thanks. Is that short for Dennis?,"#Oh, yes. It's under Dennis."
+"Thanks. Ok, and your birthdate?",Three seven sixty five.
+"March seven, sixty five.",#Yep.
+"Ok. Thanks. I need to ask you one of your security questions to verify your account, ok?",#Mhm. Go ahead.
+What is the name of your first pet?,Mango. She was a sweet baby.
+#Ah. Nice. Was she a dog?,"#Nah, a cat. A fat little cat. ."
+"Thanks for verifying. Ok, so I see here that you have two vehicle with policies. Which one do you need the number, the policy number and card for?",The Kia.
+"Got it. So, let me know when you're ready for the number.","Yeah. Sure, go ahead."
+"Ok, it's six seven two.",#Mhm.
+Three zero zero.,#Mhm.
+Three two nine seven.,#Mhm. That's it?
+#Yep. That's it.,"Ok, so, six seven two three o. o. three two nine seven?"
+#Yep.,"Ok, so what about the card?"
+"Sure. So, the card, I can send a copy of the card to you via email. Does that sound good?","Yeah, but can I get it on the website? On my account?"
+"#Oh, sure. Have you registered for an online account yet?","If I did, it was a long time ago."
+"Ok, no worries. If you can't remember your password, you can always reset it.","Right. So, where do I find the card? The download?"
+"#Oh, sure, so once you log in, just go to your dashboard, which is I think it's the landing page after you log in, then you find My Documents, then under that you'll find the, a, copy of your insurance card.",Perfect. I think I got it.
+"Great and if you have any questions, just give us a call back.",Ok. Will do. Thanks.
+You're welcome. Is there anything more I can do for you?,"#Nope, that's it. Thanks, again."
+No problem and thanks for calling Rivertown Insurance. Have a great weekend!,"#Oh, thanks. You do the same."
+Thank you. Good bye.,Bye.

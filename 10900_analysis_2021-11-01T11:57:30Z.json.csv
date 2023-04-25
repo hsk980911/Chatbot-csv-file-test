@@ -1,0 +1,30 @@
+agent,customer
+"Hi good morning, my name is Amy. Thank you for contacting our insurance company, what's can I do for you.","Hi Amy, my name is Sophie."
+"Sophie, what can I do for you?",I'd like to file a life claim.
+"Okay, to do that you'll hav eto provide some information about the insured person, is that okay?","Yeah, it's okay."
+"What's the insured person's first name, date of birth, state and street address?",His first name is Perry.
+P E R R Y.,His last name is Jones.
+"Sophie, just the first name is enough.","Okay, what's the next information."
+His date of birth.,"His date of birth zero nine, zero six, one nine six nine."
+"Okay, his state and street address?",State is Alabama.
+Alabama.,Street address is one eight nine seven Brookside Drive.
+"Okay, I'll also need some information about you.","Okay, ask your questions."
+"What's your first name, last name and phone number.",My first name is Sophie.
+S O P H I E.,Last name is Jones.
+J O N E S.,My phone number is two zero five.
+Two zero five.,Three seven three.
+Three seven three.,Eight six four zero.
+Eight six four zero?,yes.
+What's your policy number?,Two nine seven.
+Two nine seven.,Zero five eight.
+Zero five eight.,Two eight.
+"Two eight. It shows here that the insurance plan you're enrolled in is whole life, is that correct?",That's correct.
+What was the date of death?,"Two nine, zero five, two zero two one."
+"Okay, what was the cause of death.",Bronchogenic carcinomas (cancer of the lungs).
+O-okay. Your claim has been lodged and will be assessed within the next twenty-four hours.,Okay.
+Is there anything else I can do for you?,"yeah, can I get in touch with a nearby insurance agent."
+Sure you can. Which contact method would you prefer?,Through my email.
+"That's sophiejonesone two at gmail dot com, is that correct?","Yes, that's my email."
+Your email has been sent to an agent close to you. You'll get a mail from him shortly.,"Okay, thanks."
+Would you like me to do any other thing for you?,"No, that's all for now."
+Thank you Sophie fort choosing our insurance company. Do have a great day.,You too. Bye.

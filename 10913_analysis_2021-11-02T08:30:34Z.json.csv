@@ -1,0 +1,33 @@
+agent,customer
+"Hi good morning, my name is Steve, thank you for calling, how may I help you?","Hi Steve, my name is Jane."
+Alright Jane. What can I do for you?,I got a deduction from my balance concerning a plan but I didn't initiate the payment and this deduction has actually ruined my plans.
+Jane I'm so sorry about that.,"Okay, what's the way out of this."
+I would like to know if automatic billing is enabled on your dashboard.,Au-au-automatic what?
+"Yes, the automatic billing button is on the left side of your dashboard, kindly check to see if it is enabled.","Argh, I can't see any button. All I know is my money is gone and I didn't initiate any payment."
+I'm so sorry about that Jane but I really need you to confirm if automatic billing is enabled on your dashboard.,You sad the button is on the left side of my dashboard?
+Yes.,I think I found it. It's enabled. Can you disable it already?
+"Sure, I can but it would require a few process.","Okay, please hasten up."
+Okay ma. I need to verify your account but that's after you must have provide some information about yourself.,What information is that?
+"Your first name, last name, date of birth and customer number.",My first name is Jane.
+J A N E.,My last name is Austin.
+A U S T I N.,"My date of birth is one zero, one one, one nine seven six."
+"Okay, your customer number please.",Is that the eight digit number on my card?
+"yes, it is.","Okay, it's three six nine one."
+Three six nine one.,Four zero two zero.
+Four zero two zero?,Yes.
+Hold on please while I verify your identity.,Please take your time.
+it says here that the customer number is invalid. Could you call the numbers for me again?,"Sure, three six nine one four zero two two."
+three six nine one four zero two two correct?,"Yes, I mistook the last digit for zero."
+"Oh, that's okay. Hold on while I verify your identity.",Okay.
+"Jane Austin, your identity has been verified.","Okay, so what next."
+Hold on while I proceed to cancel the automatic billing.,Oh okay.
+This might take a while I hope you wouldn't mind.,All I want is for it to be disabled.
+The automatic billing has been canceled successfully.,"Oh, thank you Steve."
+You're welcome Jane. Is there anything else I can help you with?,yeah.
+What's that please?,Can I find a nearby insurance agent?
+"Yes, you can. Where are you located?","Beverly Avenue, Miami."
+Please provide your zip code.,"Okay, that's two one seven eight six."
+"Which contact method type would you prefer, phone number or email?",Email.
+What's your email address?,Janeaustin at yahoo dot com.
+Okay noted.,That's all for now.
+Thank you for choosing our insurance company. Do have a great day. Bye.,Have a great day too. Bye.

@@ -1,0 +1,33 @@
+agent,customer
+"Thank you for calling Rivertown Insurance, this is Joe speaking.","Hi Joe, I need to pay my bill."
+I can take care of that for you!,Well that's awfully nice of you. I appreciate you paying my bill!
+#laughter maybe I shold choose my words more carefully.,So you aren't going to pay my bill?
+"No, but I can assist you in paying your bill. How's that sound?",I suppose I'll take it. #laughter.
+"Alright, what kind of policy do you hold with us?",Auto.
+May I have your full name as listed on the policy?,Joshua Wellington.
+Thank you Joshua.,You're welcome Joe.
+May I have your date of birth?,January third.
+Birth year?,Seventy-six.
+Just a moment please.,No rush at all.
+"Alright, we're in!",Excellent.
+Are we just paying the current month?,Is there another option?
+You could also pay off the rest of the premium.,"Come on Joe, I'm not swimming in money over here."
+#laughter.,"Yes, just the current month please."
+"Alright, we can do that. Do you happen to have the bill reference number on hand?",I don't. Do I need that?
+"I would prefer it, so records match.","okay, I can find it if you have a minute."
+"Sure thing. If it's too much trouble, we can move forward without it.","Okay, let's just move forward. I don't know where it is exactly."
+Do you know the due date off hand?,"That I do, it's August thirteenth."
+"Perfect. Two hundred and twelve dollars, correct.",That sounds right.
+"Okay, did you want to pay with a credit card or bank account?",Can you use the card I've used before?
+"I unfornately don't have that stored, so we'll have to enter it again.","Alright, I have it when you're ready."
+"Okay, is it a Visa or Mastercard?",Visa.
+I'm ready for the card number.,Two nine three eight four seven five six three nine four eight five seven four six.
+What were the last four again?,Five seven four six.
+Got it. Expiration date?,November of twenty twenty-eight.
+Security code?,One three five.
+Perfect! Last thing I need isthe billing zip code.,Three three seven one four.
+That'll do it.,When should that process?
+"Your card will be charged immediately, but your account may not reflect the paid status for two to three business days.","Today is the due date, I won't be charged a late fee will I?"
+"Certainly not. Internall, yor payment will be reflected as made today.",Sounds good.
+Is there anything else I can help you with today?,"I don't think so, that's all I needed!"
+"Well, happy I could help you! Thank you for choosing Rivertown, and I hope you enjoy the rest of your day.","Thanks, take care."

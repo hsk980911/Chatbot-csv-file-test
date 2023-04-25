@@ -1,0 +1,29 @@
+agent,customer
+"Hello, thanks for calling Rivertown Insurance customer service. How can I help you today?",Hi yes I need to cancel my car insurance.
+"Okay, I can help you cancel your insurance plan. First, I will need your first and last name, please.","Yeah, it's Peter p. e. t. e. r. Gray g. r. a. y."
+"Thank you, mister Gray. Can you verify your account number for me?","sure, I think it's fourty one twenty."
+"Okay, your account number should be eight numbers long.","Oh is it? oh I see, I think I gave you just the last four. Let me see if I can find it here "
+Sure.,"Okay, I can't find anything other than the last four numbers. Can you make that work?"
+"Unfortunately I can't, but I can use your social security number instead.","Oh okay, I can do that."
+"Sure, whenever you're ready.","okay, it's five one one."
+five one one.,three two five.
+three two five.,four four six six.
+four four six six.,Yep.
+Thank you. What is your date of birth?,"It's October seventh, nineteen seventy five."
+"Great, thank you. One last question, what is.","Ugh, really? This is taking forever."
+"yes, I'm sorry. I just need to verify your identity with your security question. What is your mother's maiden name?",It's Hall.
+"Thank you, mister Gray. One moment please while I pull your account up.",Okay.
+"Okay, I have your automobile insurance plan here. You are wanting to cancel it, correct?",Yep.
+"While I start the cancellation process, can I ask why you are cancelling today?",Well I've found a better price insurance honestly.
+"That's okay, I'll just make a note here. If I cancel today, your coverage will continue until the last day of this month.",That's fine.
+So your insurance plan is paid through the end of this month and.,Do I get that money back?
+"No, sir. If I cancel today, your coverage will continue until the last day of this month.","Oh, okay that's kinda a rip off."
+I understand your concern. Your policy is pre-paid through the end of the month and you will have coverage for another two weeks.,Okay.
+"Okay, so you confirm the cancellation of your car insurance policy, effective June thirtieth?","yes, I do."
+"Okay, thank you.",Will I get some confirmation letter or email?
+"Yes, sir. You will receive a confirmation email shortly.",Great.
+"I have p. e. t. e. r. dot g. r. a. y. at hotmail dot com as your email, is that still correct?","Yep, that's the right one."
+Thank you within the next thirty minutes you should receive a confirmation email at that address.,Awesome.
+"Thank you, sir. Is there anything else I can help you with today?","No, I think that's it."
+"Thank you for calling today, sir, and I hope you have a great day.","Thanks, you too."
+"Thank you, bye.",Bye.

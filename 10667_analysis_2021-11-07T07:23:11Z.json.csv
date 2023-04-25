@@ -1,0 +1,28 @@
+agent,customer
+"Hi, this is Rivertown Insurance. My name is James. How can I help you today?","yeah our son just turned twenty six, so I guess I need to remove him from our insurance policy."
+"Yes, I can definitely help you with that.","Great, do you need my policy number?"
+"I will, but first can I have your first and last name, please?","Oh yeah sure, it's John Stuart."
+"Great, can I confirm the spelling of John, j. o. h. n and.","oh yeah, that's right and Stuart is s. t. u. a. r. t."
+"Thank you, mister Stuart. What is your date of birth?","yes October ninth, nineteen sixty seventy four."
+"Thank you, and what is your account number?",Is that my policy number?
+"You have an overall account number that's eight numbers long, and then you have individual policy number that's ten numbers long.","okay, hold on."
+Sure.,"Okay thanks, I think I have both numbers now which one do you want first?"
+"Great, if I can have your account number first?","Sure okay, that's five six one two."
+Five six one two.,"yeah, and one nine nine one."
+One nine nine one.,Yeah.
+"Great, and now the policy number?","Yeah, that's two three nine nine five."
+Two three nine nine five.,six six four four one.
+Six six four four one.,Yep.
+"Okay, one moment please while I pull up your account.",Sure thing.
+"Great, thank you. I have your account pulled up and I see your health insurance policy. I am showing you have three dependents?","Yes, that's right. I have two sons and one daughter."
+"Okay, what is the first and last name of the dependent you are wanting to remove from your policy?","Yes, that's my son. His name is Mark Stuart."
+"Thank you, I see him on the policy. What date do you want removal effective on?","Oh I guess his birthday, since that's when he turned twenty six which is when he's no longer covered, right?"
+"Yes, sir, that's correct.","Okay, so his birthday was Monday, which was April second."
+"Sure, I will make the effective date April second. Now, with removing a dependent you will see a decrease in your policy price.","Oh, great, I had thought about that awhile ago but honestly I forgot."
+"Yes, you will see a thirty dollar decrease on your next payment, which looks to be on April thirtieth.","Yes, I pay at the end of each month I think."
+This next payment will reflect the decrease in price.,"Excellent, thanks."
+"Also, you will receive an email confirmation of the dependent change on your policy, as well as a copy in the mail.",Okay that's good.
+"Now can I confirm your email address? I have john dot stuart at yahoo dot com, is that correct?","Yeah, that would be right."
+Sure. Is there anything else I can help you with today?,"No I think that was all I needed today, thanks."
+"Sure, thank you so much for calling today. I hope you have a great day.","Thanks, you too. I appreciate the help."
+You're welcome. Good bye.,Bye.

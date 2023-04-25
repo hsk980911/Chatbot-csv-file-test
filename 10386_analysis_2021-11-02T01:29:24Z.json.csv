@@ -1,0 +1,51 @@
+agent,customer
+Hi. You've reached Rivertown Insurance. I'm Andy. How can I help you?,Hi Andy.
+Hi.,I'm Katherine Lebeau. I need to file a claim.
+"What kind of claim, Katherine?","For my, my, my windshield got hit by a rock."
+"I see. Let me confirm your identity first, okay?","Okay, I guess that's the first, step."
+Yes. Okay. Can you spell your name and give me your birthdate?,"Yes it's Katherine with a k, K-a-t-h-e-r-i-n-e, Lebeau, L-e-b-e-a-u."
+Thank you for spelling that for me.,"No biggie, I have to spell it for everyone."
+"Yes? That must get, old. Your date of birth? .",Forty. A bit.
+And can I get your policy number?,"Sure. #Um, it's two three six nine, four one one four."
+Great. How's your day going?,"Cept for this, very well, thanks."
+"Well let's get this taken care of for you. No one was injured, were they?",No. Everyone's okay.
+Good. That's the main thing.,Yes.
+Was there any other damage to your car besides the windshield?,No.
+That's good. Now is the windshield have a rock ding or a crack?,Why?
+Well sometimes a ding can be filled without removing the windshield.,Oh. Why would you wanna do that?
+Because when you have to replace your windshield it can comprise the structural integrity.,Really?
+Yeah. You don't want to replace it unless it's necessary. The new one may not fit as tightly.,Oh. That's something no one has ever explained to me before.
+My Dad and my husband both taught me that. Although we use the very best windshield service out there.,Okay. That's good.
+And they'll let you know if you really need it replaced or not.,"Okay. That's good, too."
+"Well your account has full windshield protection, so we can set up an appointment to have it looked at.",Where do I have to take it?
+They come directly to you!,Wow! Where will they come?
+"Anywhere. Home, your work, even the zoo if that's where you are.",That's fantastic!
+We try to make it easy on our clients.,Sweet!
+So when would you like to set up your appointment?,Do I need to be there?
+No. You can leave your keys on the floor of your car and the technician will lock up and bring you the keys.,Great. So I can see it before he leaves?
+"Yes, of course. He'll need your signature before he leaves.",Yes. I have time for that!
+So where would you like them to come?,I'm getting ready to have my hair done soon. Could they do it there?
+"Yep. No problem. First, lemme get the make and model of your car.",It's a Cadillac Escalade.
+What year?,Two thousand eighteen.
+Thanks.,Your welcome.
+I also need to know when and where this happened.,Okay. It happened on the freeway. Today.
+"Can you be more specific, please? Do you know what time?",It was around eleven AM.
+Okay and the state?,I-one zero near the Bellaire exit. I don't remember the exit number.
+"That's fine. Which state are you in, Katherine?",Georgia.
+"Okay and this happened today, July thirtieth, twenty twenty-one?",Yes.
+That's all the information I needed thank you.,"Your welcome, Andy."
+Now your claim has been submitted.,Okay.
+"Your claim number is C-four one six four, two eight zero three.",Wait! I missed it!
+"That's okay. It's C as in cat, four one six four, two eight zero three.",Got it.
+"Okay keep that claim number handy, you may need to refer to it again.",Okay.
+Now let's set up your appointment. You wanted the windshield repair company to come to your salon?,"Yes, if that's okay."
+Yep. Same day service.,Great. The name of the salon is Manes and Manis.
+What city in Georgia?,Atlanta.
+Let me look up that address for you.,"No need. It's one hundred Main Street, Suite A."
+Thank you. And what time did you want them to arrive?,"Well, it's one o'clock now, and my appointment is at four, so how about three thirty?"
+Let's take a look at the schedule.,Okay. Fingers crossed.
+Yes! I submitted the location and time and it's been confirmed. Your tech's name is William.,Perfect. And he will meet me in the parking lot?
+Let me make a note of that for you.,"Thank you, you've been great. I appreciate the awesome service. You made this easy."
+My pleasure. If there's nothing else?,No. That's all.
+Then have a wonderful rest of your day.,"I plan to, thanks. Good-bye."
+Good-bye and thanks for calling Rivertown Insurance.,Bye.
